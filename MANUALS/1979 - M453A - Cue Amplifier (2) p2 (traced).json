@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M453A/MANUALS/1979 - M453A - Cue Amplifier (2).pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/f20435d0abfceeac-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1491, 2000],
+  "mm": [321.9, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [12.3, 5.9, 307.5, 421.5],
+ "outlines": {
+  "line": {"rings": 58, "straight": {"n": 1294, "mm": 3735.3}, "curved": {"n": 200, "mm": 328.9}},
+  "text": {"rings": 159, "straight": {"n": 1447, "mm": 1863.0}, "curved": {"n": 298, "mm": 479.8}},
+  "tb": {"rings": 7, "straight": {"n": 74, "mm": 73.6}, "curved": {"n": 12, "mm": 26.3}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 21,
+  "lines": [
+   {"mm": [109.0, 413.4, 277.6, 421.1], "text": "WARD-BECK SYSTEMS LTD."},
+   {"mm": [108.8, 406.8, 117.9, 410.8], "text": "1341"},
+   {"mm": [139.3, 406.5, 271.0, 412.1], "text": "iEee AveNUE. 8CAF1DORClt..JG1-1. ONTAI\"O M1H OlX"},
+   {"mm": [109.0, 400.7, 125.2, 404.8], "text": "Tt:: L.EX"},
+   {"mm": [151.6, 400.5, 161.7, 404.8], "text": ":Jgg"},
+   {"mm": [245.3, 400.5, 257.8, 404.8], "text": "1\"ISB"},
+   {"mm": [131.5, 245.5, 188.3, 257.0], "text": "M453A"},
+   {"mm": [128.2, 233.4, 191.5, 239.9], "text": "CUE AMPLIFIER"},
+   {"mm": [274.8, 55.1, 294.9, 63.7], "text": "ps"},
+   {"mm": [263.8, 44.0, 284.8, 55.1], "text": "BS"},
+   {"mm": [242.2, 22.5, 260.2, 29.4], "text": "tp"},
+   {"mm": [235.3, 15.8, 255.4, 22.7], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [102.6, 404.7, 254.3, 429.6],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SYSTEMS LTD.", "1341", "iEee AveNUE. 8CAF1DORClt..JG1-1. ONTAI\"O M1H OlX"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 322 × 432 mm, 1491 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 12–308 mm across, 6–422 mm up",
+  "- **Outlines:** line 58 rings, 1,294 straight (3,735 mm) / 200 curved (329 mm); text 159 rings, 1,447 straight (1,863 mm) / 298 curved (480 mm); tb 7 rings, 74 straight (73.6 mm) / 12 curved (26.3 mm)",
+  "- **Words (OCR):** 21 in 12 lines: WARD-BECK SYSTEMS LTD. · 1341 · iEee AveNUE. 8CAF1DORClt..JG1-1. ONTAI\"O M1H OlX · Tt:: L.EX · :Jgg · 1\"ISB · M453A · CUE AMPLIFIER · ps · BS · tp · ht",
+  "- **Title block:** (103, 405)–(254, 430) mm: WARD-BECK SYSTEMS LTD. · 1341 · iEee AveNUE. 8CAF1DORClt..JG1-1. ONTAI\"O M1H OlX"
+ ]
+}

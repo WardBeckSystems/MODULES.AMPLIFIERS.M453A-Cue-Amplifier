@@ -1,0 +1,112 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M453A/MECHANICAL/1978 - M453A - 453-04-006 - OPE- RATES THE ASSOC IATED DSI.jpg",
+ "version": 1,
+ "trace": "_traces/01ee86683cfd9d84.svg",
+ "sheet": {
+  "number": "453-04-006",
+  "title": "Ope- Rates The Assoc Iated Dsi",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1534, 2000],
+  "mm": [331.2, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 1.2, 331.2, 431.8],
+ "outlines": {
+  "line": {"rings": 74, "straight": {"n": 1826, "mm": 5017.9}, "curved": {"n": 203, "mm": 297.1}},
+  "text": {"rings": 138, "straight": {"n": 1104, "mm": 1062.5}, "curved": {"n": 357, "mm": 462.0}},
+  "tb": {"rings": 91, "straight": {"n": 1404, "mm": 2773.7}, "curved": {"n": 249, "mm": 361.0}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [1.1, 323.2, 6.5, 335.9], "w": 5.4, "h": 12.7, "from": "ring"},
+  {
+   "mm": [36.1, 141.6, 107.3, 154.3],
+   "w": 71.2,
+   "h": 12.7,
+   "from": "ring",
+   "words": ["Huting Switch SwI: Vhen", "depressed", "Ine", "Ope -", "mutes", "the", "assoc lated", "DSI.", "rates"]
+  },
+  {"mm": [249.6, 50.5, 259.3, 55.1], "w": 9.7, "h": 4.5, "from": "ring", "in_title_block": true},
+  {"mm": [269.9, 50.5, 320.3, 55.1], "w": 50.5, "h": 4.5, "from": "ring", "in_title_block": true},
+  {"mm": [259.7, 50.5, 269.4, 54.8], "w": 9.7, "h": 4.3, "from": "ring", "in_title_block": true},
+  {"mm": [320.8, 50.5, 330.3, 54.8], "w": 9.5, "h": 4.3, "from": "ring", "in_title_block": true},
+  {"mm": [259.7, 45.3, 269.4, 49.7], "w": 9.7, "h": 4.3, "from": "ring", "in_title_block": true},
+  {"mm": [320.8, 45.3, 330.5, 49.7], "w": 9.7, "h": 4.3, "from": "ring", "in_title_block": true},
+  {"mm": [224.7, 31.1, 330.3, 44.5], "w": 105.6, "h": 13.3, "from": "ring", "words": ["WBS"], "in_title_block": true},
+  {
+   "mm": [249.7, 11.2, 330.3, 30.9],
+   "w": 80.6,
+   "h": 19.6,
+   "from": "ring",
+   "words": ["M4534", "CUE", "AMpLifIER", "FRONT PANEL"],
+   "in_title_block": true
+  },
+  {"mm": [225.0, 16.2, 249.1, 20.5], "w": 24.2, "h": 4.3, "from": "ring", "words": ["CKD"], "in_title_block": true}
+ ],
+ "text": {
+  "words": 30,
+  "lines": [
+   {"mm": [147.7, 305.7, 156.7, 310.0], "text": "WBS"},
+   {"mm": [174.0, 305.7, 184.8, 310.0], "text": "M4534"},
+   {"mm": [37.6, 148.5, 104.9, 153.3], "text": "Huting Switch SwI: Vhen depressed"},
+   {"mm": [37.6, 145.9, 48.4, 149.3], "text": "mutes"},
+   {"mm": [49.9, 145.5, 56.3, 149.4], "text": "Ine"},
+   {"mm": [98.0, 145.5, 106.2, 149.4], "text": "Ope -"},
+   {"mm": [231.9, 146.6, 266.4, 150.9], "text": "LEVEL control R26"},
+   {"mm": [37.6, 142.7, 48.4, 145.8], "text": "rates"},
+   {"mm": [49.9, 142.7, 78.6, 146.5], "text": "the assoc lated"},
+   {"mm": [87.7, 142.7, 96.3, 146.5], "text": "DSI."},
+   {"mm": [231.9, 143.4, 244.8, 147.2], "text": "output"},
+   {"mm": [245.9, 143.4, 262.5, 147.7], "text": "Ieve | of"},
+   {"mm": [150.9, 138.4, 160.6, 142.7], "text": "MUTE"},
+   {"mm": [170.8, 131.9, 179.8, 137.2], "text": "CUE"},
+   {"mm": [231.0, 34.5, 255.8, 41.0], "text": "WBS"},
+   {"mm": [225.4, 26.1, 236.8, 30.4], "text": "DRNRE"},
+   {"mm": [282.2, 24.0, 298.8, 29.2], "text": "M4534"},
+   {"mm": [225.4, 20.3, 245.3, 25.2], "text": "ENG, LL"},
+   {"mm": [225.4, 16.4, 233.0, 19.8], "text": "CKD"},
+   {"mm": [274.0, 18.6, 307.0, 23.4], "text": "CUE AMpLifIER"},
+   {"mm": [275.1, 12.7, 304.6, 18.3], "text": "FRONT PANEL"},
+   {"mm": [225.8, 11.0, 232.7, 14.8], "text": "App"},
+   {"mm": [271.2, 3.0, 299.2, 7.8], "text": "453-04-006"},
+   {"mm": [316.1, 6.7, 325.8, 10.5], "text": "ISSUE"}
+  ]
+ },
+ "title_block": {
+  "mm": [141.0, 0.0, 331.2, 318.7],
+  "from": "title-block words (training set)",
+  "text": [
+   "WBS",
+   "M4534",
+   "LEVEL control R26",
+   "output",
+   "Ieve | of",
+   "MUTE",
+   "CUE",
+   "WBS",
+   "DRNRE",
+   "M4534",
+   "ENG, LL",
+   "CKD",
+   "CUE AMpLifIER",
+   "FRONT PANEL",
+   "App",
+   "453-04-006",
+   "ISSUE"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 453-04-006, size B (assumed) 331 × 432 mm, 1534 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–331 mm across, 1–432 mm up",
+  "- **Outlines:** line 74 rings, 1,826 straight (5,018 mm) / 203 curved (297 mm); text 138 rings, 1,104 straight (1,062 mm) / 357 curved (462 mm); tb 91 rings, 1,404 straight (2,774 mm) / 249 curved (361 mm)",
+  "- **Closed boxes:** 11 (9 in the title block); named: Huting Switch SwI: Vhen depressed Ine Op",
+  "- **Words (OCR):** 30 in 24 lines: WBS · M4534 · Huting Switch SwI: Vhen depressed · mutes · Ine · Ope - · LEVEL control R26 · rates · the assoc lated · DSI. · output · Ieve | of",
+  "- **Title block:** (141, 0)–(331, 319) mm: WBS · M4534 · LEVEL control R26 · output · Ieve | of · MUTE · CUE · WBS · DRNRE · M4534 · ENG, LL · CKD · CUE AMpLifIER · FRONT PANEL · App · 453-04-006 · ISSUE"
+ ]
+}

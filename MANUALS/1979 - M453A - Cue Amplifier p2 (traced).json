@@ -1,0 +1,54 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M453A/MANUALS/1979 - M453A - Cue Amplifier.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/fe5af9d8226bb921-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1491, 2000],
+  "mm": [321.9, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [12.3, 5.8, 307.5, 421.5],
+ "outlines": {
+  "line": {"rings": 6, "straight": {"n": 502, "mm": 2572.5}, "curved": {"n": 41, "mm": 67.7}},
+  "text": {"rings": 159, "straight": {"n": 1907, "mm": 2599.9}, "curved": {"n": 409, "mm": 661.7}},
+  "tb": {"rings": 3, "straight": {"n": 104, "mm": 303.2}, "curved": {"n": 6, "mm": 14.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 11,
+  "lines": [
+   {"mm": [108.8, 413.2, 278.9, 422.8], "text": "WARD-BECK SYSTEMS LTD,"},
+   {"mm": [38.0, 403.7, 275.5, 418.4], "text": "WBS 841 PAOGRESS AVENUE. SCARDOAOUGH ONTANIO N1h2x4"},
+   {"mm": [108.2, 401.4, 162.1, 406.2], "text": "TCLEX; 065-25399"},
+   {"mm": [197.8, 400.5, 275.7, 407.2], "text": "TELEPHDNE: 416/430-6550"},
+   {"mm": [130.4, 246.3, 188.7, 258.3], "text": "M453A"},
+   {"mm": [127.4, 233.6, 144.2, 241.8], "text": "CUE"},
+   {"mm": [151.1, 233.2, 193.2, 241.8], "text": "AMPLIFIER"},
+   {"mm": [67.1, 5.2, 245.7, 10.5], "text": "DESIGN AND MANUFACTURE OF POOFESSIONAL AUDIO COUIPMENT"}
+  ]
+ },
+ "title_block": {
+  "mm": [31.6, 395.1, 255.5, 431.5],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SYSTEMS LTD,", "WBS 841 PAOGRESS AVENUE. SCARDOAOUGH ONTANIO N1h2x4", "TCLEX; 065-25399", "TELEPHDNE: 416/430-6550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 322 × 432 mm, 1491 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 12–308 mm across, 6–422 mm up",
+  "- **Outlines:** line 6 rings, 502 straight (2,572 mm) / 41 curved (67.7 mm); text 159 rings, 1,907 straight (2,600 mm) / 409 curved (662 mm); tb 3 rings, 104 straight (303 mm) / 6 curved (14.6 mm)",
+  "- **Words (OCR):** 11 in 8 lines: WARD-BECK SYSTEMS LTD, · WBS 841 PAOGRESS AVENUE. SCARDOAOUGH ONTANIO N1h2x4 · TCLEX; 065-25399 · TELEPHDNE: 416/430-6550 · M453A · CUE · AMPLIFIER · DESIGN AND MANUFACTURE OF POOFESSIONAL AUDIO COUIPMENT",
+  "- **Title block:** (32, 395)–(256, 432) mm: WARD-BECK SYSTEMS LTD, · WBS 841 PAOGRESS AVENUE. SCARDOAOUGH ONTANIO N1h2x4 · TCLEX; 065-25399 · TELEPHDNE: 416/430-6550"
+ ]
+}

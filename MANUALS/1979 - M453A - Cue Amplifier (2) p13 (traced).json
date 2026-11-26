@@ -1,0 +1,113 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M453A/MANUALS/1979 - M453A - Cue Amplifier (2).pdf",
+ "page": 13,
+ "version": 1,
+ "trace": "_traces/f20435d0abfceeac-p13.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1506, 2000],
+  "mm": [325.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "13", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.2, -0.1, 325.1, 431.2],
+ "outlines": {
+  "line": {"rings": 167, "straight": {"n": 2549, "mm": 5224.3}, "curved": {"n": 455, "mm": 679.7}},
+  "text": {"rings": 128, "straight": {"n": 875, "mm": 825.6}, "curved": {"n": 274, "mm": 365.3}}
+ },
+ "circles": [
+  {"c": [169.1, 147.5], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [148.7, 159.1], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [134.3, 115.9, 183.0, 317.2], "w": 48.7, "h": 201.3, "from": "ring", "words": ["was", "M'53A", "CUE"]},
+  {"mm": [137.3, 117.0, 179.7, 316.2], "w": 42.4, "h": 199.2, "from": "ring", "words": ["was", "M'53A", "CUE"]},
+  {
+   "mm": [26.6, 141.4, 99.1, 154.2],
+   "w": 72.5,
+   "h": 12.8,
+   "from": "ring",
+   "words": [
+    "I1IJTI~",
+    "When",
+    "SWITCH",
+    "SW1",
+    "deprened",
+    "the",
+    "lind",
+    "mutes",
+    "speilke",
+    "output",
+    "ope-",
+    "ntes",
+    "the",
+    "IIs",
+    "socl",
+    "_ted",
+    "LEO",
+    "051"
+   ]
+  },
+  {
+   "mm": [225.0, 142.3, 283.5, 151.8],
+   "w": 58.5,
+   "h": 9.5,
+   "from": "ring",
+   "words": ["---jLEYEL", "cOI'1t", "ol", "COt\"It", "ro", "26", "~l1f", "er", "ou", "tp", "ut", "Ie", "of"]
+  },
+  {"mm": [244.4, 48.6, 254.1, 53.1], "w": 9.7, "h": 4.5, "from": "ring"},
+  {"mm": [254.8, 48.4, 264.5, 52.9], "w": 9.7, "h": 4.5, "from": "ring"},
+  {"mm": [244.4, 43.4, 254.1, 47.7], "w": 9.7, "h": 4.3, "from": "ring", "words": ["ISSUE"]},
+  {"mm": [254.8, 43.1, 264.5, 47.5], "w": 9.7, "h": 4.4, "from": "ring", "words": ["DA"]},
+  {"mm": [219.1, 13.4, 244.0, 17.9], "w": 24.9, "h": 4.5, "from": "ring", "words": ["CO<D."]},
+  {"mm": [312.2, 4.5, 321.0, 7.2], "w": 8.8, "h": 2.7, "from": "ring"}
+ ],
+ "text": {
+  "words": 53,
+  "lines": [
+   {"mm": [140.8, 309.2, 149.2, 313.7], "text": "was"},
+   {"mm": [167.8, 308.7, 178.1, 312.8], "text": "M'53A"},
+   {"mm": [27.6, 148.8, 62.0, 152.1], "text": "I1IJTI~ SWITCH SW1"},
+   {"mm": [66.7, 148.8, 95.6, 152.1], "text": "When deprened"},
+   {"mm": [220.6, 147.2, 261.5, 150.6], "text": "---jLEYEL cOI'1t ol 26"},
+   {"mm": [266.0, 147.2, 278.1, 150.4], "text": "COt\"It ro"},
+   {"mm": [27.4, 145.5, 37.6, 148.4], "text": "mutes"},
+   {"mm": [27.9, 142.1, 84.6, 145.4], "text": "ntes the IIs socl _ted LEO 051"},
+   {"mm": [40.4, 145.5, 78.8, 148.6], "text": "the speilke output"},
+   {"mm": [81.4, 145.5, 96.7, 148.6], "text": "lind ope-"},
+   {"mm": [226.9, 143.1, 245.3, 146.0], "text": "ou tp ut Ie"},
+   {"mm": [253.5, 143.1, 257.6, 146.0], "text": "of"},
+   {"mm": [261.7, 142.9, 280.2, 146.5], "text": "~l1f er"},
+   {"mm": [164.9, 131.1, 172.7, 135.1], "text": "CUE"},
+   {"mm": [277.6, 55.5, 297.9, 64.4], "text": "ps"},
+   {"mm": [266.6, 43.0, 299.0, 55.5], "text": "BS Of_"},
+   {"mm": [245.7, 42.7, 260.2, 45.4], "text": "ISSUE DA"},
+   {"mm": [221.9, 30.7, 254.5, 39.1], "text": "[\\NSS]"},
+   {"mm": [296.2, 32.4, 323.2, 36.0], "text": "&VB EiWS"},
+   {"mm": [244.8, 22.7, 262.8, 29.6], "text": "tp"},
+   {"mm": [220.4, 22.7, 243.1, 26.7], "text": "DltN3?~f"},
+   {"mm": [278.5, 20.7, 294.5, 24.8], "text": "M.S3A"},
+   {"mm": [237.9, 14.5, 302.5, 22.7], "text": "ht CUE AM'lIfIER"},
+   {"mm": [220.4, 12.7, 227.8, 15.6], "text": "CO<D."},
+   {"mm": [272.2, 8.9, 300.7, 12.9], "text": "FRONT PANel"},
+   {"mm": [227.1, 2.8, 236.2, 5.9], "text": "SCoW"},
+   {"mm": [313.5, 3.0, 322.6, 5.9], "text": "ISSUO"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 325 × 432 mm, 1506 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 5–325 mm across, 0–431 mm up",
+  "- **Outlines:** line 167 rings, 2,549 straight (5,224 mm) / 455 curved (680 mm); text 128 rings, 875 straight (826 mm) / 274 curved (365 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 5.0 @ (169.1, 147.5), r 2.3 @ (148.7, 159.1)",
+  "- **Closed boxes:** 10; named: was M'53A CUE; was M'53A CUE; I1IJTI~ When SWITCH SW1 deprened the lin; ---jLEYEL cOI'1t ol COt\"It ro 26 ~l1f er; ISSUE; DA; CO<D.",
+  "- **Words (OCR):** 53 in 27 lines: was · M'53A · I1IJTI~ SWITCH SW1 · When deprened · ---jLEYEL cOI'1t ol 26 · COt\"It ro · mutes · ntes the IIs socl _ted LEO 051 · the speilke output · lind ope- · ou tp ut Ie · of"
+ ]
+}

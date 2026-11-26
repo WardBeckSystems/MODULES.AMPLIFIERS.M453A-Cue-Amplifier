@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M453A/MANUALS/1979 - M453A - Cue Amplifier.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/fe5af9d8226bb921-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1485, 2000],
+  "mm": [320.6, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [147.9, 2.4, 316.1, 431.8],
+ "outlines": {
+  "line": {"rings": 28, "straight": {"n": 1436, "mm": 5532.8}, "curved": {"n": 108, "mm": 192.2}},
+  "text": {"rings": 50, "straight": {"n": 1150, "mm": 4099.5}, "curved": {"n": 142, "mm": 252.5}},
+  "tb": {"rings": 1, "straight": {"n": 38, "mm": 123.9}, "curved": {"n": 8, "mm": 7.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [176.4, 400.7, 272.2, 423.7], "text": "WBS"},
+   {"mm": [177.9, 360.8, 272.2, 384.0], "text": "WBS"},
+   {"mm": [178.1, 321.9, 272.2, 345.4], "text": "WBS"},
+   {"mm": [179.0, 282.0, 272.2, 305.2], "text": "WBS"},
+   {"mm": [179.2, 242.7, 272.9, 266.7], "text": "WBS"},
+   {"mm": [180.1, 202.7, 273.5, 226.5], "text": "WBS"},
+   {"mm": [179.2, 164.3, 272.9, 187.8], "text": "WBS"},
+   {"mm": [176.4, 125.0, 272.7, 148.8], "text": "WBS"},
+   {"mm": [200.4, 95.4, 226.3, 104.1], "text": "M 453A"},
+   {"mm": [188.9, 85.9, 241.8, 94.1], "text": "CUE AMPLIFIER"},
+   {"mm": [179.6, 45.8, 273.3, 70.2], "text": "WBS"},
+   {"mm": [177.7, 6.9, 272.9, 31.4], "text": "WBS"}
+  ]
+ },
+ "title_block": {
+  "mm": [170.1, 0.0, 279.8, 431.8],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "M 453A", "CUE AMPLIFIER", "WBS", "WBS"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 321 × 432 mm, 1485 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 148–316 mm across, 2–432 mm up",
+  "- **Outlines:** line 28 rings, 1,436 straight (5,533 mm) / 108 curved (192 mm); text 50 rings, 1,150 straight (4,100 mm) / 142 curved (252 mm); tb 1 rings, 38 straight (124 mm) / 8 curved (7.4 mm)",
+  "- **Words (OCR):** 12 in 12 lines: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M 453A · CUE AMPLIFIER · WBS · WBS",
+  "- **Title block:** (170, 0)–(280, 432) mm: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M 453A · CUE AMPLIFIER · WBS · WBS"
+ ]
+}

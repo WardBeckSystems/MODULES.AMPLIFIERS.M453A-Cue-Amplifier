@@ -1,0 +1,116 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M453A/MECHANICAL/1978 - M453A - 453-04-006 - MUTING SMITCH SWI NHEN DEPRESSED MUEES THE EAKER.jpg",
+ "version": 1,
+ "trace": "_traces/83073482588314dc.svg",
+ "sheet": {
+  "number": "453-04-006",
+  "title": "Muting Smitch Swi Nhen Depressed Muees The Eaker",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1240, 1753],
+  "mm": [305.4, 431.8],
+  "mm_per_px": 0.24632
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 305.4, 431.8],
+ "outlines": {
+  "line": {"rings": 72, "straight": {"n": 1085, "mm": 4031.1}, "curved": {"n": 113, "mm": 182.8}},
+  "text": {"rings": 198, "straight": {"n": 1211, "mm": 1222.3}, "curved": {"n": 379, "mm": 521.4}},
+  "tb": {"rings": 105, "straight": {"n": 1009, "mm": 2580.1}, "curved": {"n": 164, "mm": 257.3}}
+ },
+ "circles": [],
+ "boxes": [
+  {
+   "mm": [30.8, 159.9, 95.1, 171.4],
+   "w": 64.3,
+   "h": 11.6,
+   "from": "ring",
+   "words": ["Muting switch Sw1", "Nhen", "depressec_", "speaker", "the", "cpe-", "ces", "rates", "the", "associatec"]
+  },
+  {"mm": [289.2, 77.8, 297.9, 82.0], "w": 8.7, "h": 4.2, "from": "ring", "in_title_block": true},
+  {"mm": [224.9, 77.3, 234.0, 81.8], "w": 9.1, "h": 4.5, "from": "ring", "in_title_block": true},
+  {"mm": [243.6, 72.9, 288.8, 77.3], "w": 45.2, "h": 4.4, "from": "ring", "in_title_block": true},
+  {"mm": [289.2, 73.2, 298.0, 77.3], "w": 8.9, "h": 4.2, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [225.1, 72.9, 234.0, 77.1], "w": 8.9, "h": 4.2, "from": "ring", "in_title_block": true},
+  {"mm": [202.5, 59.9, 298.0, 72.7], "w": 95.6, "h": 12.8, "from": "ring", "words": ["WBS", "WARD-BECK SYSTEMS"], "in_title_block": true},
+  {
+   "mm": [225.4, 41.6, 298.3, 60.1],
+   "w": 72.9,
+   "h": 18.5,
+   "from": "ring",
+   "words": ["M453A", "AMPLIFIER", "CUE", "FRONT", "PANEL"],
+   "in_title_block": true
+  },
+  {"mm": [202.5, 55.4, 224.9, 59.6], "w": 22.4, "h": 4.2, "from": "ring", "words": ["DRN?"], "in_title_block": true},
+  {"mm": [202.3, 50.6, 224.9, 55.2], "w": 22.6, "h": 4.6, "from": "ring", "in_title_block": true},
+  {"mm": [202.5, 46.1, 225.1, 50.5], "w": 22.7, "h": 4.4, "from": "ring", "words": ["CKD:"], "in_title_block": true},
+  {"mm": [234.7, 32.8, 280.1, 41.6], "w": 45.3, "h": 8.9, "from": "ring", "words": ["453-04-006"], "in_title_block": true},
+  {"mm": [280.3, 33.0, 298.4, 41.6], "w": 18.0, "h": 8.6, "from": "ring", "words": ["ISSUE"], "in_title_block": true},
+  {"mm": [225.2, 32.5, 234.5, 41.4], "w": 9.3, "h": 8.9, "from": "ring", "in_title_block": true},
+  {"mm": [202.7, 32.5, 225.1, 41.1], "w": 22.4, "h": 8.6, "from": "ring", "words": ["SCALE"], "in_title_block": true}
+ ],
+ "text": {
+  "words": 29,
+  "lines": [
+   {"mm": [130.8, 311.1, 138.9, 314.9], "text": "WBS"},
+   {"mm": [154.7, 311.1, 165.0, 315.5], "text": "M45JA"},
+   {"mm": [32.0, 166.5, 93.1, 170.3], "text": "Muting switch Sw1 Nhen depressec_"},
+   {"mm": [208.6, 165.5, 232.3, 169.6], "text": "LEVEL conErol"},
+   {"mm": [32.0, 160.6, 69.5, 163.9], "text": "rates the associatec"},
+   {"mm": [36.0, 163.3, 41.9, 166.6], "text": "ces"},
+   {"mm": [43.4, 163.3, 49.3, 167.1], "text": "the"},
+   {"mm": [51.7, 163.6, 65.0, 167.7], "text": "speaker"},
+   {"mm": [86.0, 163.8, 93.6, 167.1], "text": "cpe-"},
+   {"mm": [134.0, 157.4, 143.6, 161.2], "text": "MUTE"},
+   {"mm": [153.5, 151.5, 161.6, 155.9], "text": "CUE"},
+   {"mm": [225.4, 73.2, 243.1, 76.4], "text": "ISSUE DATE"},
+   {"mm": [290.7, 73.6, 296.6, 76.9], "text": "APP"},
+   {"mm": [208.1, 63.6, 294.8, 69.0], "text": "WBS WARD-BECK SYSTEMS"},
+   {"mm": [203.2, 55.4, 212.8, 59.3], "text": "DRN?"},
+   {"mm": [254.9, 53.7, 269.0, 58.1], "text": "M453A"},
+   {"mm": [247.6, 48.3, 255.2, 52.7], "text": "CUE"},
+   {"mm": [257.2, 48.8, 276.6, 53.2], "text": "AMPLIFIER"},
+   {"mm": [203.2, 46.1, 210.4, 49.9], "text": "CKD:"},
+   {"mm": [248.5, 43.4, 274.9, 47.7], "text": "FRONT PANEL"},
+   {"mm": [209.1, 37.4, 218.7, 41.3], "text": "SCALE"},
+   {"mm": [285.2, 37.9, 293.9, 41.2], "text": "ISSUE"},
+   {"mm": [244.6, 34.2, 270.0, 38.6], "text": "453-04-006"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [124.7, 28.9, 302.6, 323.6],
+  "from": "title-block words (training set)",
+  "text": [
+   "WBS",
+   "M45JA",
+   "LEVEL conErol",
+   "MUTE",
+   "CUE",
+   "ISSUE DATE",
+   "APP",
+   "WBS WARD-BECK SYSTEMS",
+   "DRN?",
+   "M453A",
+   "CUE",
+   "AMPLIFIER",
+   "CKD:",
+   "FRONT PANEL",
+   "SCALE",
+   "ISSUE",
+   "453-04-006"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 453-04-006, size B (assumed) 305 × 432 mm, 1240 × 1753 px traced (0.246 mm/px)",
+  "- **Ink extent:** 0–305 mm across, 0–432 mm up",
+  "- **Outlines:** line 72 rings, 1,085 straight (4,031 mm) / 113 curved (183 mm); text 198 rings, 1,211 straight (1,222 mm) / 379 curved (521 mm); tb 105 rings, 1,009 straight (2,580 mm) / 164 curved (257 mm)",
+  "- **Closed boxes:** 15 (14 in the title block); named: Muting switch Sw1 Nhen depressec_ speake",
+  "- **Words (OCR):** 29 in 23 lines: WBS · M45JA · Muting switch Sw1 Nhen depressec_ · LEVEL conErol · rates the associatec · ces · the · speaker · cpe- · MUTE · CUE · ISSUE DATE",
+  "- **Title block:** (125, 29)–(303, 324) mm: WBS · M45JA · LEVEL conErol · MUTE · CUE · ISSUE DATE · APP · WBS WARD-BECK SYSTEMS · DRN? · M453A · CUE · AMPLIFIER · CKD: · FRONT PANEL · SCALE · ISSUE · 453-04-006"
+ ]
+}

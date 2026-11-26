@@ -1,0 +1,99 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M453A/MANUALS/1979 - M453A - Cue Amplifier.pdf",
+ "page": 13,
+ "version": 1,
+ "trace": "_traces/fe5af9d8226bb921-p13.svg",
+ "sheet": {
+  "number": "453-04-006",
+  "title": "Huting Switch Ski Vhen Depressed Mutes Ehe Speaker",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1506, 2000],
+  "mm": [325.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "13", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.2, -0.1, 325.1, 431.2],
+ "outlines": {
+  "line": {"rings": 21, "straight": {"n": 228, "mm": 452.8}, "curved": {"n": 47, "mm": 69.1}},
+  "text": {"rings": 137, "straight": {"n": 1312, "mm": 1288.0}, "curved": {"n": 407, "mm": 566.2}},
+  "tb": {"rings": 81, "straight": {"n": 1448, "mm": 3921.3}, "curved": {"n": 216, "mm": 347.8}}
+ },
+ "circles": [],
+ "boxes": [
+  {
+   "mm": [26.6, 141.3, 99.2, 153.9],
+   "w": 72.6,
+   "h": 12.7,
+   "from": "ring",
+   "words": ["Huting Switch", "Sk1 :", "Khen depressed,", "Ehe", "speaker", "end Ope\"", "mutes", "the", "associated", "DSI .", "rates"]
+  }
+ ],
+ "text": {
+  "words": 34,
+  "lines": [
+   {"mm": [140.6, 308.5, 149.6, 312.8], "text": "WBS"},
+   {"mm": [167.1, 308.5, 178.3, 312.8], "text": "M4534"},
+   {"mm": [28.3, 148.1, 98.0, 153.1], "text": "Huting Switch Sk1 : Khen depressed,"},
+   {"mm": [40.8, 144.9, 65.6, 149.4], "text": "Ehe speaker"},
+   {"mm": [81.2, 144.9, 96.3, 149.2], "text": "end Ope\""},
+   {"mm": [226.5, 145.9, 282.6, 150.4], "text": "LEVEL control R26 Controls"},
+   {"mm": [27.9, 145.5, 39.1, 148.9], "text": "mutes"},
+   {"mm": [28.3, 142.3, 39.1, 145.6], "text": "rates"},
+   {"mm": [40.8, 142.3, 70.6, 146.1], "text": "the associated"},
+   {"mm": [79.0, 142.3, 88.1, 146.1], "text": "DSI ."},
+   {"mm": [226.5, 142.7, 239.4, 146.5], "text": "output"},
+   {"mm": [240.5, 143.4, 250.9, 146.7], "text": "Ieve|"},
+   {"mm": [261.0, 142.7, 280.5, 147.0], "text": "anp ]fier"},
+   {"mm": [143.4, 138.0, 153.5, 142.8], "text": "MUTE"},
+   {"mm": [164.3, 131.5, 173.4, 136.8], "text": "CUE"},
+   {"mm": [244.8, 43.0, 264.7, 46.8], "text": "ISSUE IDATE"},
+   {"mm": [225.0, 32.2, 323.4, 38.6], "text": "WBS WARD-BECK BySTeMS"},
+   {"mm": [277.6, 21.4, 294.5, 26.7], "text": "M4534"},
+   {"mm": [219.4, 18.6, 226.9, 22.4], "text": "ERG"},
+   {"mm": [269.0, 15.3, 302.5, 20.8], "text": "CUE AMpLifIER"},
+   {"mm": [220.0, 8.4, 227.6, 12.3], "text": "App"},
+   {"mm": [270.7, 9.5, 301.0, 14.8], "text": "FRONT PANEL"},
+   {"mm": [223.7, 3.5, 237.1, 7.3], "text": "7SCALE"},
+   {"mm": [312.2, 3.5, 321.9, 7.3], "text": "ISSUE"},
+   {"mm": [266.4, 0.2, 295.6, 4.5], "text": "453-04-006"}
+  ]
+ },
+ "title_block": {
+  "mm": [134.1, 0.0, 325.1, 321.4],
+  "from": "title-block words (training set)",
+  "text": [
+   "WBS",
+   "M4534",
+   "LEVEL control R26 Controls",
+   "output",
+   "Ieve|",
+   "anp ]fier",
+   "MUTE",
+   "CUE",
+   "ISSUE IDATE",
+   "WBS WARD-BECK BySTeMS",
+   "M4534",
+   "ERG",
+   "CUE AMpLifIER",
+   "App",
+   "FRONT PANEL",
+   "7SCALE",
+   "ISSUE",
+   "453-04-006"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 453-04-006, size B (assumed) 325 × 432 mm, 1506 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 5–325 mm across, 0–431 mm up",
+  "- **Outlines:** line 21 rings, 228 straight (453 mm) / 47 curved (69.1 mm); text 137 rings, 1,312 straight (1,288 mm) / 407 curved (566 mm); tb 81 rings, 1,448 straight (3,921 mm) / 216 curved (348 mm)",
+  "- **Closed boxes:** 1; named: Huting Switch Sk1 : Khen depressed, Ehe ",
+  "- **Words (OCR):** 34 in 25 lines: WBS · M4534 · Huting Switch Sk1 : Khen depressed, · Ehe speaker · end Ope\" · LEVEL control R26 Controls · mutes · rates · the associated · DSI . · output · Ieve|",
+  "- **Title block:** (134, 0)–(325, 321) mm: WBS · M4534 · LEVEL control R26 Controls · output · Ieve| · anp ]fier · MUTE · CUE · ISSUE IDATE · WBS WARD-BECK BySTeMS · M4534 · ERG · CUE AMpLifIER · App · FRONT PANEL · 7SCALE · ISSUE · 453-04-006"
+ ]
+}
