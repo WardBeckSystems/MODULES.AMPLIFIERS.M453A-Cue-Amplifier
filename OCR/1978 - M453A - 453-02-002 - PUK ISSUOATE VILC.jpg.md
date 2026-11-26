@@ -24,7 +24,7 @@ Wiki page: [M453A](../../../../PAGES/M453A.md)
 - **Title block:** (358, 16)–(432, 32) mm: WBS WARD-DeCK byateMS
 - **Wiring (first pass):** 89 connected wire groups from 708 runs; labelled ends: 307 mm → L016; 217 mm → Ri; 158 mm → 2N4569, 359, gi, Sins; 106 mm → 3683, WARD-DeCK byateMS; 69 mm → Iw
 
-Every curve, box, word and wire group: [1978 - M453A - 453-02-002 - PUK ISSUOATE VILC (traced).json](../SCHEMATICS/1978%20-%20M453A%20-%20453-02-002%20-%20PUK%20ISSUOATE%20VILC%20(traced).json) (the CAD file: `1978 - M453A - 453-02-002 - PUK ISSUOATE VILC (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M453A - 453-02-002 - PUK ISSUOATE VILC (traced).json](../SCHEMATICS/1978%20-%20M453A%20-%20453-02-002%20-%20PUK%20ISSUOATE%20VILC%20%28traced%29.json) (the CAD file: `1978 - M453A - 453-02-002 - PUK ISSUOATE VILC (traced).dxf`).
 
 ## Full text
 

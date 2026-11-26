@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (263, 36)–(432, 105) mm: ISSUE DATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · DRN: JRG 02/87 · EENG Zz · CUE CHANNEL · CKD; · SCHEMA TIC · APP _ · SCALE DISC NO: 130 · 600-02-007 · ISSUE · CODE: 600S07
 - **Wiring (first pass):** 40 connected wire groups from 148 runs, 1 dotted junctions; labelled ends: 428 mm → FROM CUE, (147), 148,149; 274 mm → TB2, 128822, BELDEN #8451; 152 mm → SCALE; 95 mm → +25V; 34 mm → BELDEN #8451, CUE, SPEAKER
 
-Every curve, box, word and wire group: [19xx - M453A - DOC - 600-02-007 - CUE CHANNEL SCHEMA TIC (traced).json](../SCHEMATICS/19xx%20-%20M453A%20-%20DOC%20-%20600-02-007%20-%20CUE%20CHANNEL%20SCHEMA%20TIC%20(traced).json) (the CAD file: `19xx - M453A - DOC - 600-02-007 - CUE CHANNEL SCHEMA TIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M453A - DOC - 600-02-007 - CUE CHANNEL SCHEMA TIC (traced).json](../SCHEMATICS/19xx%20-%20M453A%20-%20DOC%20-%20600-02-007%20-%20CUE%20CHANNEL%20SCHEMA%20TIC%20%28traced%29.json) (the CAD file: `19xx - M453A - DOC - 600-02-007 - CUE CHANNEL SCHEMA TIC (traced).dxf`).
 
 ## Full text
 

@@ -20,7 +20,7 @@ Wiki page: [M453A](../../../../PAGES/M453A.md)
 - **Words (OCR):** 30 in 24 lines: WBS · M4534 · Huting Switch SwI: Vhen depressed · mutes · Ine · Ope - · LEVEL control R26 · rates · the assoc lated · DSI. · output · Ieve | of
 - **Title block:** (141, 0)–(331, 319) mm: WBS · M4534 · LEVEL control R26 · output · Ieve | of · MUTE · CUE · WBS · DRNRE · M4534 · ENG, LL · CKD · CUE AMpLifIER · FRONT PANEL · App · 453-04-006 · ISSUE
 
-Every curve, box, word and wire group: [1978 - M453A - 453-04-006 - OPE- RATES THE ASSOC IATED DSI (traced).json](../MECHANICAL/1978%20-%20M453A%20-%20453-04-006%20-%20OPE-%20RATES%20THE%20ASSOC%20IATED%20DSI%20(traced).json) (the CAD file: `1978 - M453A - 453-04-006 - OPE- RATES THE ASSOC IATED DSI (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M453A - 453-04-006 - OPE- RATES THE ASSOC IATED DSI (traced).json](../MECHANICAL/1978%20-%20M453A%20-%20453-04-006%20-%20OPE-%20RATES%20THE%20ASSOC%20IATED%20DSI%20%28traced%29.json) (the CAD file: `1978 - M453A - 453-04-006 - OPE- RATES THE ASSOC IATED DSI (traced).dxf`).
 
 ## Full text
 

@@ -15,6 +15,18 @@ Wiki page: [M453A](../../../../PAGES/M453A.md)
 - **Size:** 90,877 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 432 × 331 mm, 900 × 690 px traced (0.480 mm/px)
+- **Ink extent:** 34–432 mm across, 0–324 mm up
+- **Outlines:** line 648 rings, 4,441 straight (15,141 mm) / 1,204 curved (2,505 mm); text 53 rings, 348 straight (632 mm) / 125 curved (273 mm); tb 143 rings, 830 straight (1,390 mm) / 256 curved (523 mm)
+- **Circles and arcs:** 3 circles, 0 arcs; largest r 5.2 @ (294.8, 270.5), r 4.0 @ (160.3, 137.9), r 1.6 @ (99.3, 102.7)
+- **Closed boxes:** 40 (12 in the title block); named: Ris*** 012 0 m WBS R55 CANADA 7-119 R45 
+- **Words (OCR):** 12 in 11 lines: 012 · Ris*** · 0 m · WBS · R55 · CANADA · 7-119 · R45 · R53 % · WBS WARD-Beck bybtems · 53-06-002
+- **Title block:** (235, 27)–(432, 218) mm: WBS · CANADA · 7-119 · WBS WARD-Beck bybtems
+
+Every curve, box, word and wire group: [M453A - P16 - Layout (traced).json](../SCHEMATICS/M453A%20-%20P16%20-%20Layout%20%28traced%29.json) (the CAD file: `M453A - P16 - Layout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 2 words corrected)

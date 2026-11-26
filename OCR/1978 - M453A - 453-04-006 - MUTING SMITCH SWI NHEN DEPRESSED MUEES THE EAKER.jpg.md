@@ -20,7 +20,7 @@ Wiki page: [M453A](../../../../PAGES/M453A.md)
 - **Words (OCR):** 29 in 23 lines: WBS · M45JA · Muting switch Sw1 Nhen depressec_ · LEVEL conErol · rates the associatec · ces · the · speaker · cpe- · MUTE · CUE · ISSUE DATE
 - **Title block:** (125, 29)–(303, 324) mm: WBS · M45JA · LEVEL conErol · MUTE · CUE · ISSUE DATE · APP · WBS WARD-BECK SYSTEMS · DRN? · M453A · CUE · AMPLIFIER · CKD: · FRONT PANEL · SCALE · ISSUE · 453-04-006
 
-Every curve, box, word and wire group: [1978 - M453A - 453-04-006 - MUTING SMITCH SWI NHEN DEPRESSED MUEES THE EAKER (traced).json](../MECHANICAL/1978%20-%20M453A%20-%20453-04-006%20-%20MUTING%20SMITCH%20SWI%20NHEN%20DEPRESSED%20MUEES%20THE%20EAKER%20(traced).json) (the CAD file: `1978 - M453A - 453-04-006 - MUTING SMITCH SWI NHEN DEPRESSED MUEES THE EAKER (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M453A - 453-04-006 - MUTING SMITCH SWI NHEN DEPRESSED MUEES THE EAKER (traced).json](../MECHANICAL/1978%20-%20M453A%20-%20453-04-006%20-%20MUTING%20SMITCH%20SWI%20NHEN%20DEPRESSED%20MUEES%20THE%20EAKER%20%28traced%29.json) (the CAD file: `1978 - M453A - 453-04-006 - MUTING SMITCH SWI NHEN DEPRESSED MUEES THE EAKER (traced).dxf`).
 
 ## Full text
 

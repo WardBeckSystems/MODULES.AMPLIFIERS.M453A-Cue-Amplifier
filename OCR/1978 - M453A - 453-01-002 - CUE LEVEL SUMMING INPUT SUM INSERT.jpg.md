@@ -23,7 +23,7 @@ Wiki page: [M453A](../../../../PAGES/M453A.md)
 - **Title block:** (282, 4)–(432, 76) mm: 78 · REDRAWN · (ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN.P MAHONEY · M453A · ENG. RKB · CUE AMPLIFIER · CKD Rx · FUNCTIONAL · DIAGRAM · APP · ~SCALE · ISSUE · 453-01-002
 - **Wiring (first pass):** 78 connected wire groups from 172 runs; labelled ends: 169 mm → SUM, SUMMING]INPUT; 76 mm → PWR; 40 mm → PWR; 38 mm → SWITCHEd INPUTS, CTL; 28 mm → PWR, INSERT
 
-Every curve, box, word and wire group: [1978 - M453A - 453-01-002 - CUE LEVEL SUMMING INPUT SUM INSERT (traced).json](../SCHEMATICS/1978%20-%20M453A%20-%20453-01-002%20-%20CUE%20LEVEL%20SUMMING%20INPUT%20SUM%20INSERT%20(traced).json) (the CAD file: `1978 - M453A - 453-01-002 - CUE LEVEL SUMMING INPUT SUM INSERT (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M453A - 453-01-002 - CUE LEVEL SUMMING INPUT SUM INSERT (traced).json](../SCHEMATICS/1978%20-%20M453A%20-%20453-01-002%20-%20CUE%20LEVEL%20SUMMING%20INPUT%20SUM%20INSERT%20%28traced%29.json) (the CAD file: `1978 - M453A - 453-01-002 - CUE LEVEL SUMMING INPUT SUM INSERT (traced).dxf`).
 
 ## Full text
 

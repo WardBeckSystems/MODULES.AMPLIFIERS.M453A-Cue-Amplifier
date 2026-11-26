@@ -26,7 +26,7 @@ Wiki page: [M453A](../../../../PAGES/M453A.md)
 - **Words (OCR):** 12 in 12 lines: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M 453A · CUE AMPLIFIER · WBS · WBS
 - **Title block:** (170, 0)–(280, 432) mm: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M 453A · CUE AMPLIFIER · WBS · WBS
 
-Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p1 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p1%20(traced).json) (the CAD file: `1979 - M453A - Cue Amplifier p1 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p1 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p1%20%28traced%29.json) (the CAD file: `1979 - M453A - Cue Amplifier p1 (traced).dxf`).
 
 ### Page 2
 
@@ -36,7 +36,7 @@ Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p1 (traced)
 - **Words (OCR):** 11 in 8 lines: WARD-BECK SYSTEMS LTD, · WBS 841 PAOGRESS AVENUE. SCARDOAOUGH ONTANIO N1h2x4 · TCLEX; 065-25399 · TELEPHDNE: 416/430-6550 · M453A · CUE · AMPLIFIER · DESIGN AND MANUFACTURE OF POOFESSIONAL AUDIO COUIPMENT
 - **Title block:** (32, 395)–(256, 432) mm: WARD-BECK SYSTEMS LTD, · WBS 841 PAOGRESS AVENUE. SCARDOAOUGH ONTANIO N1h2x4 · TCLEX; 065-25399 · TELEPHDNE: 416/430-6550
 
-Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p2 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p2%20(traced).json) (the CAD file: `1979 - M453A - Cue Amplifier p2 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p2 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p2%20%28traced%29.json) (the CAD file: `1979 - M453A - Cue Amplifier p2 (traced).dxf`).
 
 ### Page 3
 
@@ -46,7 +46,7 @@ Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p2 (traced)
 - **Words (OCR):** 53 in 40 lines: WAAD-BECK EYSTEMB LTD · TABLE OF · CONTENTS · M453A CUE AMPLIFIER · SFCTION · PAGE · Warranty · Dala · Technical · 1-1 to · 1-2 · circuit Description
 - **Title block:** (5, 62)–(275, 431) mm: WAAD-BECK EYSTEMB LTD · TABLE OF · CONTENTS · M453A CUE AMPLIFIER · SFCTION · PAGE · Warranty · Dala · Technical · 1-1 to · 1-2 · circuit Description · 2-1 t0 · 2-2 · Parts · List · 3-1 to · 3-4 · App
 
-Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p3 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p3%20(traced).json) (the CAD file: `1979 - M453A - Cue Amplifier p3 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p3 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p3%20%28traced%29.json) (the CAD file: `1979 - M453A - Cue Amplifier p3 (traced).dxf`).
 
 ### Page 4
 
@@ -56,7 +56,7 @@ Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p3 (traced)
 - **Words (OCR):** 264 in 148 lines: WARD-BECK SystemS LTD · WBS TFLFX · 065-25399 · TELEPHONE · W A R R A N I Y · AII · Ward Beck · Systems · Ltd; producls are · warranled · #4ainsl · defeclive matcrials and
 - **Title block:** (29, 72)–(258, 421) mm: WARD-BECK SystemS LTD · WBS TFLFX · 065-25399 · TELEPHONE · W A R R A N I Y · AII · Ward Beck · Systems · Ltd; producls are · warranled · defeclive matcrials and · workmanship for · period of one · Ye
 
-Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p4 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p4%20(traced).json) (the CAD file: `1979 - M453A - Cue Amplifier p4 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p4 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p4%20%28traced%29.json) (the CAD file: `1979 - M453A - Cue Amplifier p4 (traced).dxf`).
 
 ### Page 5
 
@@ -66,7 +66,7 @@ Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p4 (traced)
 - **Dots (junctions):** 1
 - **Words (OCR):** 108 in 63 lines: WAAD-BECK · LTD_ · IECHNICAL DATA · M4534 · CUE_AMPLIFIER · Ga · in: · To · Line Output: · 18 dB · 42 dB · To
 
-Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p5 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p5%20(traced).json) (the CAD file: `1979 - M453A - Cue Amplifier p5 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p5 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p5%20%28traced%29.json) (the CAD file: `1979 - M453A - Cue Amplifier p5 (traced).dxf`).
 
 ### Page 6
 
@@ -75,7 +75,7 @@ Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p5 (traced)
 - **Outlines:** line 19 rings, 670 straight (2,871 mm) / 105 curved (158 mm); text 541 rings, 4,376 straight (5,008 mm) / 1,120 curved (1,748 mm)
 - **Words (OCR):** 61 in 41 lines: WARD-BECK SYSTEMS LTD_ · IECHNICAL DATA · M4534 CUE · AMPLHFIER · Load Impedances : · Line : · 600 ohms · ba lanced. · Speaker: · ohms · ba lanced/unbalanced_ · Output
 
-Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p6 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p6%20(traced).json) (the CAD file: `1979 - M453A - Cue Amplifier p6 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p6 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p6%20%28traced%29.json) (the CAD file: `1979 - M453A - Cue Amplifier p6 (traced).dxf`).
 
 ### Page 7
 
@@ -84,7 +84,7 @@ Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p6 (traced)
 - **Outlines:** line 40 rings, 758 straight (3,391 mm) / 122 curved (202 mm); text 1,759 rings, 13,563 straight (15,259 mm) / 3,815 curved (5,964 mm)
 - **Words (OCR):** 225 in 103 lines: WAAD-BECK BYBTemS · LTD_ · CLRCUIT DESCRIPIION · M4534 · CUE_AMPLIEIER · The M453A is cue · amp]ifier with 3-watt · output capability. · Provision · made t0 connect the · amplifier output to · the
 
-Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p7 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p7%20(traced).json) (the CAD file: `1979 - M453A - Cue Amplifier p7 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p7 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p7%20%28traced%29.json) (the CAD file: `1979 - M453A - Cue Amplifier p7 (traced).dxf`).
 
 ### Page 8
 
@@ -94,7 +94,7 @@ Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p7 (traced)
 - **Dots (junctions):** 1
 - **Words (OCR):** 212 in 113 lines: WAAD-BECK SYETEMS LTD_ · CIRCUI_DESCRIPIION · M453A · CUE AMPLIIER · The · 3-watt speaker output i5 · derived from the Tower · ha] f 0 f · 22 Coupled through C21, the · s igna ] appears · at the · DIRECT
 
-Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p8 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p8%20(traced).json) (the CAD file: `1979 - M453A - Cue Amplifier p8 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p8 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p8%20%28traced%29.json) (the CAD file: `1979 - M453A - Cue Amplifier p8 (traced).dxf`).
 
 ### Page 9
 
@@ -103,7 +103,7 @@ Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p8 (traced)
 - **Outlines:** line 159 rings, 1,455 straight (4,069 mm) / 260 curved (392 mm); text 794 rings, 6,714 straight (7,890 mm) / 1,955 curved (3,054 mm)
 - **Words (OCR):** 118 in 106 lines: WAAD-BECK SySTEms LTD; · PARTS LiST · M453A CUE AMPLIFIER · PART DESCRIPTION · MFG · MFG PART NUMBER · C1 · Capacitor · uF/35 · Kemet · T390B105M035AS · C2
 
-Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p9 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p9%20(traced).json) (the CAD file: `1979 - M453A - Cue Amplifier p9 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p9 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p9%20%28traced%29.json) (the CAD file: `1979 - M453A - Cue Amplifier p9 (traced).dxf`).
 
 ### Page 10
 
@@ -112,7 +112,7 @@ Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p9 (traced)
 - **Outlines:** line 133 rings, 1,110 straight (3,927 mm) / 205 curved (316 mm); text 427 rings, 3,540 straight (4,167 mm) / 1,063 curved (1,646 mm)
 - **Words (OCR):** 84 in 78 lines: WAAD-BECK SYSTEms LTD; · PARTS LiST · M453A CUE AMPLIFIER · DESCRIPTION · MFG · PART NUMBER · PART · MFG · FI · Fuse, · 0.754 · Buss
 
-Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p10 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p10%20(traced).json) (the CAD file: `1979 - M453A - Cue Amplifier p10 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p10 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p10%20%28traced%29.json) (the CAD file: `1979 - M453A - Cue Amplifier p10 (traced).dxf`).
 
 ### Page 11
 
@@ -122,7 +122,7 @@ Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p10 (traced
 - **Words (OCR):** 95 in 89 lines: WARD-BECK SYSTems LTD · PARIS LIST · M453A · CUE · AMPLIFIER · PART DESCRIPTION · MFG · MFG PART NUMBER · R26 · Potentiometer · A/B · 10-015
 - **Title block:** (5, 44)–(238, 431) mm: WARD-BECK SYSTems LTD · PARIS LIST · M453A · CUE · AMPLIFIER · PART DESCRIPTION · MFG · R26 · Potentiometer · A/B · WBS · R27 · Resistor · 1/4w 5% · Lk? · Philips · R28 · 10k · R29 · 10k · R3O · 4K7 ·
 
-Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p11 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p11%20(traced).json) (the CAD file: `1979 - M453A - Cue Amplifier p11 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p11 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p11%20%28traced%29.json) (the CAD file: `1979 - M453A - Cue Amplifier p11 (traced).dxf`).
 
 ### Page 12
 
@@ -132,7 +132,7 @@ Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p11 (traced
 - **Words (OCR):** 62 in 48 lines: WARD-BECK SysTemB LTD; · PARTS LiST · ML53A CUE AMPLIFIER · PART DESCRIPTION · MFG · MFG PART · NUMBER · LMILSBN · 21 · Integrated · circuit · National
 - **Title block:** (8, 72)–(141, 430) mm: WARD-BECK SysTemB LTD; · PART DESCRIPTION · 21 · Integrated · circuit · 22 · 23 · 24 · CONTROL · USED ON · DESCRIPTION · R26 · Knob · (Black ) · Cap · Black) · Swi · Button · (White) · WBS recormiends
 
-Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p12 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p12%20(traced).json) (the CAD file: `1979 - M453A - Cue Amplifier p12 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p12 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p12%20%28traced%29.json) (the CAD file: `1979 - M453A - Cue Amplifier p12 (traced).dxf`).
 
 ### Page 13
 
@@ -143,7 +143,7 @@ Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p12 (traced
 - **Words (OCR):** 34 in 25 lines: WBS · M4534 · Huting Switch Sk1 : Khen depressed, · Ehe speaker · end Ope" · LEVEL control R26 Controls · mutes · rates · the associated · DSI . · output · Ieve|
 - **Title block:** (134, 0)–(325, 321) mm: WBS · M4534 · LEVEL control R26 Controls · output · Ieve| · anp ]fier · MUTE · CUE · ISSUE IDATE · WBS WARD-BECK BySTeMS · M4534 · ERG · CUE AMpLifIER · App · FRONT PANEL · 7SCALE · ISSUE · 453-04-006
 
-Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p13 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p13%20(traced).json) (the CAD file: `1979 - M453A - Cue Amplifier p13 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p13 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p13%20%28traced%29.json) (the CAD file: `1979 - M453A - Cue Amplifier p13 (traced).dxf`).
 
 ### Page 14
 
@@ -157,7 +157,7 @@ Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p13 (traced
 - **Title block:** (282, 4)–(432, 76) mm: REDRAWN · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN.P MAHoNEY · M453A · ENG RKB · CUE · AMPLIFIER · CKD Rxu · APP · FUNCTIONAL DIAGRAM · ISCALE · ISSUE · 453-01-002
 - **Wiring (first pass):** 77 connected wire groups from 169 runs; labelled ends: 169 mm → SUM, SUMMING INPUT; 77 mm → PwR; 41 mm → SWITCHEd INPUTS, CTL, MUTE ASSIGN; 40 mm → PwR; 28 mm → INSERT, PwR
 
-Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p14 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p14%20(traced).json) (the CAD file: `1979 - M453A - Cue Amplifier p14 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p14 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p14%20%28traced%29.json) (the CAD file: `1979 - M453A - Cue Amplifier p14 (traced).dxf`).
 
 ### Page 15
 
@@ -171,7 +171,7 @@ Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p14 (traced
 - **Title block:** (359, 16)–(432, 32) mm: WBS WARD-DECK 9YBTEMS
 - **Wiring (first pass):** 92 connected wire groups from 719 runs; labelled ends: 437 mm → 63, R28 k; 310 mm → R3; 197 mm → MMtE, 204569, Sins; 66 mm → R3; 47 mm → 63
 
-Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p15 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p15%20(traced).json) (the CAD file: `1979 - M453A - Cue Amplifier p15 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p15 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p15%20%28traced%29.json) (the CAD file: `1979 - M453A - Cue Amplifier p15 (traced).dxf`).
 
 ### Page 16
 
@@ -183,7 +183,7 @@ Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p15 (traced
 - **Words (OCR):** 94 in 88 lines: RIg 322k · Roz2ok · Ra ! · Ris bok · RB · RS EX · RIO · 23 · 24 · CD40l6 · Rs_ · #CR4 4 CD40l6
 - **Title block:** (70, 0)–(432, 219) mm: LMisb · R24 ' · R25 J5k · WBS · Cis · 2425 · R55 · CANADA · 7-119 · Cle · 14i · C23 · R3 4k/ · Cis 2205 · R37-J5* · Czo 2316 · Raz 75 · 22 · R3b · R29 · R5o 4 · R4301 · Czi · Doo15 · cri · R3I - · R38
 
-Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p16 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p16%20(traced).json) (the CAD file: `1979 - M453A - Cue Amplifier p16 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p16 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p16%20%28traced%29.json) (the CAD file: `1979 - M453A - Cue Amplifier p16 (traced).dxf`).
 
 ### Page 17
 
@@ -194,7 +194,7 @@ Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p16 (traced
 - **Closed boxes:** 53; named: L/io; MM1 N/12 P/13; R/14; s/15; T/16; ulizl; vl18; Y21; 2/22/
 - **Words (OCR):** 72 in 49 lines: INPUT #1 · INPUT #1 · INPUT #2 · INPUT #2 · INPUT #3 · INPUT #3 · SHIELD · SHIELD · SUMMING INPUT · SUMMING INPUT · NC · NC
 
-Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p17 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p17%20(traced).json) (the CAD file: `1979 - M453A - Cue Amplifier p17 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M453A - Cue Amplifier p17 (traced).json](../MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20p17%20%28traced%29.json) (the CAD file: `1979 - M453A - Cue Amplifier p17 (traced).dxf`).
 
 ## Full text
 
