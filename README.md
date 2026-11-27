@@ -1,17 +1,17 @@
-# M453A · Amplifiers
+# M453A Cue Amplifier · Amplifiers
 
 Ward-Beck Systems M453A, 1978|11. Wiki page: [M453A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M453A.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 34 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 8 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 191 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 44 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 41 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 12 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 11 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 220 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 12 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 43 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -187,15 +187,6 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKOFd5RkFJZFRsLVU/view?resourcekey=0-4ZXqO7AGlkahr8GGqiTwMg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKOFd5RkFJZFRsLVU&resourcekey=0-4ZXqO7AGlkahr8GGqiTwMg" width="240" alt="1978 - M453A - 453-04-006 - MUTING SMITCH SWI NHEN DEPRESSED MUEES THE EAKER.jpg"></a><br><sub>1978|11 · 453-04-006 - MUTING SMITCH SWI NHEN DEPRESSED MUEES THE EAKER · <a href="MECHANICAL/1978%20-%20M453A%20-%20453-04-006%20-%20MUTING%20SMITCH%20SWI%20NHEN%20DEPRESSED%20MUEES%20THE%20EAKER%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZDk4WGY5RmpzSjg/view?resourcekey=0-XbdfUhcXqXx6idFxDFIDaA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZDk4WGY5RmpzSjg&resourcekey=0-XbdfUhcXqXx6idFxDFIDaA" width="240" alt="1978 - M453A - 453-04-006 - OPE- RATES THE ASSOC IATED DSI.jpg"></a><br><sub>1978|11 · 453-04-006 - OPE- RATES THE ASSOC IATED DSI · <a href="MECHANICAL/1978%20-%20M453A%20-%20453-04-006%20-%20OPE-%20RATES%20THE%20ASSOC%20IATED%20DSI%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-## 3-D model
-
-[`MECHANICAL/M453A.stl`](MECHANICAL/M453A.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M453A)
-
-- **Size:** 51.97 × 192.13 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
-- **From the drawing:** 3 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M453A - front panel.svg`)
-- the drawn panel is 0.22 wide to high, the size 0.27: placed by its height
-- Made by `tools/module_models.py` (→ `MECHANICAL/M453A.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
-
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
@@ -203,7 +194,7 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTkdSR3RQck1ZTnc/view?resourcekey=0-ybvaSobByomcZUJlbM0e1Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTkdSR3RQck1ZTnc&resourcekey=0-ybvaSobByomcZUJlbM0e1Q" width="240" alt="1978 - M453A - 453-01-002 - CUE AMPLIFIER.jpg"></a><br><sub>1978|11 · 453-01-002 - CUE AMPLIFIER · <a href="SCHEMATICS/1978%20-%20M453A%20-%20453-01-002%20-%20CUE%20AMPLIFIER%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKMG1NX0JXVEpJRWs/view?resourcekey=0-yZDMQRmhGxT8T9xs9c9AnQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKMG1NX0JXVEpJRWs&resourcekey=0-yZDMQRmhGxT8T9xs9c9AnQ" width="240" alt="1978 - M453A - 453-01-002 - CUE LEVEL SUMMING INPUT SUM INSERT.jpg"></a><br><sub>1978|11 · 453-01-002 - CUE LEVEL SUMMING INPUT SUM INSERT · <a href="SCHEMATICS/1978%20-%20M453A%20-%20453-01-002%20-%20CUE%20LEVEL%20SUMMING%20INPUT%20SUM%20INSERT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeFlsR1Q2blhLWWs/view?resourcekey=0-7iW-dI0dwhOTuDgv-IY6jg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeFlsR1Q2blhLWWs&resourcekey=0-7iW-dI0dwhOTuDgv-IY6jg" width="240" alt="1978 - M453A - 453-02-002 - MUTE ASSIGN.jpg"></a><br><sub>1978|11 · 453-02-002 - MUTE ASSIGN · <a href="SCHEMATICS/1978%20-%20M453A%20-%20453-02-002%20-%20MUTE%20ASSIGN%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKemFyYm9hMkNfWFU/view?resourcekey=0-7dF_xLdlpY8XXnVFsRykGg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKemFyYm9hMkNfWFU&resourcekey=0-7dF_xLdlpY8XXnVFsRykGg" width="240" alt="1978 - M453A - 453-02-002 - PUK ISSUOATE VILC.jpg"></a><br><sub>1978|11 · 453-02-002 - PUK ISSUOATE VILC · <a href="SCHEMATICS/1978%20-%20M453A%20-%20453-02-002%20-%20PUK%20ISSUOATE%20VILC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWEliM2xjSnVpRjg/view?resourcekey=0-L3Ylmvj8ye_iikk2Rz3JTQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWEliM2xjSnVpRjg&resourcekey=0-L3Ylmvj8ye_iikk2Rz3JTQ" width="240" alt="1978 - M453A - 453-06-002 - CUE AMPLIFIER COMPONENT LAYOUT.jpg"></a><br><sub>1978|11 · 453-06-002 - CUE AMPLIFIER COMPONENT LAYOUT · <a href="SCHEMATICS/1978%20-%20M453A%20-%20453-06-002%20-%20CUE%20AMPLIFIER%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKYnl6WV9ZWEdLeGs/view?resourcekey=0-vqpC_jnwodKz-cnfiiA3Vg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKYnl6WV9ZWEdLeGs&resourcekey=0-vqpC_jnwodKz-cnfiiA3Vg" width="240" alt="1978 - M453A - 453-06-002.jpg"></a><br><sub>1978|11 · 453-06-002 · <a href="SCHEMATICS/1978%20-%20M453A%20-%20453-06-002%20(EXTRACTED).svg">vectors</a></sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1IRahFbsPHBcdvuXsdKtytXjyfr8PAlmE/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1IRahFbsPHBcdvuXsdKtytXjyfr8PAlmE" width="240" alt="19xx - M453A - DOC - 600-02-001 - INPUT CHANNEL SCHEMA TIC.png"></a><br><sub>19xx - M453A - DOC - 600-02-001 - INPUT CHANNEL SCHEMA TIC</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1rWpiNimcQYvKcAPqbaYQ8hIY2sQiaj62/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1rWpiNimcQYvKcAPqbaYQ8hIY2sQiaj62" width="240" alt="19xx - M453A - DOC - 600-02-007 - CUE CHANNEL SCHEMA TIC.png"></a><br><sub>19xx - M453A - DOC - 600-02-007 - CUE CHANNEL SCHEMA TIC</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1uNZQpFQsRJmutVdnGzn-J-Fj0CyRnUUP/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1uNZQpFQsRJmutVdnGzn-J-Fj0CyRnUUP" width="240" alt="2006 - M453A - DOC - 920063-01-001 - MONIORMQDULE SWTCHED DIRECT SSUE REMSION.jpg"></a><br><sub>2006|39 · DOC - 920063-01-001 - MONIORMQDULE SWTCHED DIRECT SSUE REMSION</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1IRahFbsPHBcdvuXsdKtytXjyfr8PAlmE/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1IRahFbsPHBcdvuXsdKtytXjyfr8PAlmE" width="240" alt="19xx - M453A - DOC - 600-02-001 - INPUT CHANNEL SCHEMA TIC.png"></a><br><sub>19xx - M453A - DOC - 600-02-001 - INPUT CHANNEL SCHEMA TIC · <a href="SCHEMATICS/19xx%20-%20M453A%20-%20DOC%20-%20600-02-001%20-%20INPUT%20CHANNEL%20SCHEMA%20TIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1rWpiNimcQYvKcAPqbaYQ8hIY2sQiaj62/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1rWpiNimcQYvKcAPqbaYQ8hIY2sQiaj62" width="240" alt="19xx - M453A - DOC - 600-02-007 - CUE CHANNEL SCHEMA TIC.png"></a><br><sub>19xx - M453A - DOC - 600-02-007 - CUE CHANNEL SCHEMA TIC · <a href="SCHEMATICS/19xx%20-%20M453A%20-%20DOC%20-%20600-02-007%20-%20CUE%20CHANNEL%20SCHEMA%20TIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1uNZQpFQsRJmutVdnGzn-J-Fj0CyRnUUP/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1uNZQpFQsRJmutVdnGzn-J-Fj0CyRnUUP" width="240" alt="2006 - M453A - DOC - 920063-01-001 - MONIORMQDULE SWTCHED DIRECT SSUE REMSION.jpg"></a><br><sub>2006|39 · DOC - 920063-01-001 - MONIORMQDULE SWTCHED DIRECT SSUE REMSION · <a href="SCHEMATICS/2006%20-%20M453A%20-%20DOC%20-%20920063-01-001%20-%20MONIORMQDULE%20SWTCHED%20DIRECT%20SSUE%20REMSION%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `M453A - P16 - Layout.jpg`
@@ -213,7 +204,7 @@ Not on Google Drive yet: `M453A - P16 - Layout.jpg`
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKdFV5MFNzek5iWjQ/view?resourcekey=0-7dM9gwsmJMGNHswRlpqs4g" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKdFV5MFNzek5iWjQ&resourcekey=0-7dM9gwsmJMGNHswRlpqs4g" width="240" alt="1978 - M453A - P17 - Pin Out.jpg"></a><br><sub>1978|11 · P17 - Pin Out</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKdFV5MFNzek5iWjQ/view?resourcekey=0-7dM9gwsmJMGNHswRlpqs4g" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKdFV5MFNzek5iWjQ&resourcekey=0-7dM9gwsmJMGNHswRlpqs4g" width="240" alt="1978 - M453A - P17 - Pin Out.jpg"></a><br><sub>1978|11 · P17 - Pin Out · <a href="PINOUTS/1978%20-%20M453A%20-%20P17%20-%20Pin%20Out%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `M453A - RTO-144 Connections.pdf`
@@ -297,8 +288,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 
 Shared privately on Google Drive (opens after sign-in): [1990|23 · DOC - CHIN Radio R14000001](https://drive.google.com/file/d/0B0yR0b5T78SKYld2RThnMU1tLW8/view?resourcekey=0-ZPb2apzcpMkiRBWF0YEm7Q)
 
-Not on Google Drive yet: `M453A - P03 - TOC.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
@@ -310,7 +299,15 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1979 - M453A - Cue Amplifier (2) p14.kicad_sch](KICAD/1979%20-%20M453A%20-%20Cue%20Amplifier%20(2)%20p14.kicad_sch)
 - [1979 - M453A - Cue Amplifier p14.kicad_sch](KICAD/1979%20-%20M453A%20-%20Cue%20Amplifier%20p14.kicad_sch)
 - [1979 - M453A - Cue Amplifier p15.kicad_sch](KICAD/1979%20-%20M453A%20-%20Cue%20Amplifier%20p15.kicad_sch)
+- [19xx - M453A - DOC - 600-02-001 - INPUT CHANNEL SCHEMA TIC.kicad_sch](KICAD/19xx%20-%20M453A%20-%20DOC%20-%20600-02-001%20-%20INPUT%20CHANNEL%20SCHEMA%20TIC.kicad_sch)
+- [19xx - M453A - DOC - 600-02-007 - CUE CHANNEL SCHEMA TIC.kicad_sch](KICAD/19xx%20-%20M453A%20-%20DOC%20-%20600-02-007%20-%20CUE%20CHANNEL%20SCHEMA%20TIC.kicad_sch)
+- [2006 - M453A - DOC - 920063-01-001 - MONIORMQDULE SWTCHED DIRECT SSUE REMSION.kicad_sch](KICAD/2006%20-%20M453A%20-%20DOC%20-%20920063-01-001%20-%20MONIORMQDULE%20SWTCHED%20DIRECT%20SSUE%20REMSION.kicad_sch)
 - [M453A.kicad_sym](KICAD/M453A.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
