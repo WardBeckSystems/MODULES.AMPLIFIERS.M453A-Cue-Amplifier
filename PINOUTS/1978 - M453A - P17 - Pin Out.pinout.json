@@ -1,0 +1,589 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1978 - M453A - P17 - Pin Out.jpg",
+  "module": "M453A",
+  "applies_to": [
+    "M453A"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": "A 453-04-005",
+    "title": "M453A CUE AMPLIFIER CONNECTOR REAR VIEW",
+    "date": "1978-04",
+    "issue": "1",
+    "drawn": "E2 (handwritten, uncertain)"
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": 44,
+      "rows": "A-Z opposite 1-22",
+      "view": "rear",
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "A",
+      "also": "1",
+      "as_drawn": "INPUT #1",
+      "signal": "INPUT #1",
+      "kind": "in",
+      "port": "INPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": "A",
+      "as_drawn": "INPUT #1",
+      "signal": "INPUT #1",
+      "kind": "in",
+      "port": "INPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "B",
+      "also": "2",
+      "as_drawn": "INPUT #2",
+      "signal": "INPUT #2",
+      "kind": "in",
+      "port": "INPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": "B",
+      "as_drawn": "INPUT #2",
+      "signal": "INPUT #2",
+      "kind": "in",
+      "port": "INPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "C",
+      "also": "3",
+      "as_drawn": "INPUT #3",
+      "signal": "INPUT #3",
+      "kind": "in",
+      "port": "INPUT 3",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": "C",
+      "as_drawn": "INPUT #3",
+      "signal": "INPUT #3",
+      "kind": "in",
+      "port": "INPUT 3",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "D",
+      "also": "4",
+      "as_drawn": "SHIELD",
+      "signal": "INPUT SHIELD",
+      "kind": "shield",
+      "port": "INPUTS",
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": "D",
+      "as_drawn": "SHIELD",
+      "signal": "INPUT SHIELD",
+      "kind": "shield",
+      "port": "INPUTS",
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "E",
+      "also": "5",
+      "as_drawn": "SUMMING INPUT",
+      "signal": "SUMMING INPUT",
+      "kind": "in",
+      "port": "SUMMING INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "5",
+      "also": "E",
+      "as_drawn": "SUMMING INPUT",
+      "signal": "SUMMING INPUT",
+      "kind": "in",
+      "port": "SUMMING INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "F",
+      "also": "6",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "6",
+      "also": "F",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "H",
+      "also": "7",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": "H",
+      "as_drawn": "PREAMP OUT",
+      "signal": "PREAMP OUT",
+      "kind": "insert_send",
+      "port": "PREAMP OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "J",
+      "also": "8",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "8",
+      "also": "J",
+      "as_drawn": "PWR AMP IN",
+      "signal": "PWR AMP IN",
+      "kind": "insert_return",
+      "port": "PWR AMP IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "K",
+      "also": "9",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "9",
+      "also": "K",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "L",
+      "also": "10",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "10",
+      "also": "L",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "M",
+      "also": "11",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "11",
+      "also": "M",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "N",
+      "also": "12",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "12",
+      "also": "N",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "P",
+      "also": "13",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "13",
+      "also": "P",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "R",
+      "also": "14",
+      "as_drawn": "LINE OUTPUT",
+      "signal": "LINE OUTPUT",
+      "kind": "out",
+      "port": "LINE OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "14",
+      "also": "R",
+      "as_drawn": "LINE OUTPUT",
+      "signal": "LINE OUTPUT",
+      "kind": "out",
+      "port": "LINE OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "S",
+      "also": "15",
+      "as_drawn": "DIRECT OUTPUT",
+      "signal": "DIRECT OUTPUT",
+      "kind": "out",
+      "port": "DIRECT OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": "S",
+      "as_drawn": "SWITCHED OUTPUT",
+      "signal": "SWITCHED OUTPUT",
+      "kind": "out",
+      "port": "SWITCHED OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "T",
+      "also": "16",
+      "as_drawn": "OUTPUT COM",
+      "signal": "OUTPUT COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "16",
+      "also": "T",
+      "as_drawn": "OUTPUT COM",
+      "signal": "OUTPUT COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "U",
+      "also": "17",
+      "as_drawn": "I/P #3 CTL",
+      "signal": "INPUT 3 CONTROL",
+      "kind": "control_in",
+      "port": "I/P #3 CTL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "17",
+      "also": "U",
+      "as_drawn": "I/P #2 CTL",
+      "signal": "INPUT 2 CONTROL",
+      "kind": "control_in",
+      "port": "I/P #2 CTL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "V",
+      "also": "18",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "18",
+      "also": "V",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "W",
+      "also": "19",
+      "as_drawn": "MUTE ASSIGN",
+      "signal": "MUTE ASSIGN",
+      "kind": "control_in",
+      "port": "MUTE ASSIGN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "19",
+      "also": "W",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "X",
+      "also": "20",
+      "as_drawn": "MUTE CTL",
+      "signal": "MUTE CONTROL",
+      "kind": "control_in",
+      "port": "MUTE CTL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "20",
+      "also": "X",
+      "as_drawn": "COM",
+      "signal": "COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "Y",
+      "also": "21",
+      "as_drawn": "+25V CTL",
+      "signal": "+25 V CONTROL",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "21",
+      "also": "Y",
+      "as_drawn": "+25V",
+      "signal": "+25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "Z",
+      "also": "22",
+      "as_drawn": "CTL COM",
+      "signal": "CONTROL COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "22",
+      "also": "Z",
+      "as_drawn": "CHASSIS",
+      "signal": "CHASSIS GROUND",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "INPUT 1",
+      "dir": "in",
+      "pins": {
+        "+": "P1-A",
+        "-": "P1-1"
+      }
+    },
+    {
+      "name": "INPUT 2",
+      "dir": "in",
+      "pins": {
+        "+": "P1-B",
+        "-": "P1-2"
+      }
+    },
+    {
+      "name": "INPUT 3",
+      "dir": "in",
+      "pins": {
+        "+": "P1-C",
+        "-": "P1-3"
+      }
+    },
+    {
+      "name": "INPUTS",
+      "dir": "in",
+      "pins": {
+        "shield": "P1-D"
+      }
+    },
+    {
+      "name": "SUMMING INPUT",
+      "dir": "in",
+      "pins": {
+        "+": "P1-E",
+        "-": "P1-5"
+      }
+    },
+    {
+      "name": "PREAMP OUT",
+      "dir": "insert_send",
+      "pins": {
+        "+": "P1-7"
+      }
+    },
+    {
+      "name": "PWR AMP IN",
+      "dir": "insert_return",
+      "pins": {
+        "+": "P1-8"
+      }
+    },
+    {
+      "name": "LINE OUTPUT",
+      "dir": "out",
+      "pins": {
+        "+": "P1-R",
+        "-": "P1-14"
+      }
+    },
+    {
+      "name": "DIRECT OUTPUT",
+      "dir": "out",
+      "pins": {
+        "+": "P1-S"
+      }
+    },
+    {
+      "name": "SWITCHED OUTPUT",
+      "dir": "out",
+      "pins": {
+        "+": "P1-15"
+      }
+    },
+    {
+      "name": "I/P #3 CTL",
+      "dir": "control_in",
+      "pins": {
+        "+": "P1-U"
+      }
+    },
+    {
+      "name": "I/P #2 CTL",
+      "dir": "control_in",
+      "pins": {
+        "+": "P1-17"
+      }
+    },
+    {
+      "name": "MUTE ASSIGN",
+      "dir": "control_in",
+      "pins": {
+        "+": "P1-W"
+      }
+    },
+    {
+      "name": "MUTE CTL",
+      "dir": "control_in",
+      "pins": {
+        "+": "P1-X"
+      }
+    }
+  ],
+  "inserts": [
+    {
+      "name": "PREAMP / POWER AMP INSERT",
+      "send": "PREAMP OUT",
+      "return": "PWR AMP IN",
+      "normalled": null,
+      "note": "unbalanced single contacts, pins 7 and 8 (H and J are NC); normalling not shown"
+    }
+  ],
+  "straps": [],
+  "unread": [
+    "Drawn-by initials handwritten ('E2'?)",
+    "Polarity of the paired input/output contacts not marked"
+  ],
+  "confidence": "high",
+  "notes": "Each row has separate labels for the letter side (left) and the numbered side (right); pins recorded per contact with the opposite contact in 'also'. Same-named pairs (INPUT #1 A/1, #2 B/2, #3 C/3, SUMMING INPUT E/5, LINE OUTPUT R/14, SHIELD D/4, OUTPUT COM T/16) treated as balanced pairs, + on the letter side by assumption. S = DIRECT OUTPUT, 15 = SWITCHED OUTPUT. LEGEND: NC: NOT CONNECTED."
+}

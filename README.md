@@ -211,18 +211,63 @@ Not on Google Drive yet: `M453A - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-14 contacts, 21 contacts (P2). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it); the RTO-144 sheet agrees on 7 of 9 contacts; 2 to check (`conflicts`). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+**To check:**
+
+- disagree P1-18: kept N/C (nc); RTO-144 sheet says GND (ground)
+- disagree P1-19: kept N/C (nc); RTO-144 sheet says VEE-AUDIO (power)
+
+**Inserts:** PREAMP / POWER AMP INSERT: PREAMP OUT → PWR AMP IN
+
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 14 | ACTIVELY BALANCED TINE OUTPUT | out |  | medium |
-| 18 | COMMON | ground |  | high |
-| 19 | -25 V | power |  | high |
+| 1 | INPUT #1 | in | INPUT 1 | high |
+| 2 | INPUT #2 | in | INPUT 2 | high |
+| 3 | INPUT #3 | in | INPUT 3 | high |
+| 4 | INPUT SHIELD | shield | INPUTS shield | high |
+| 5 | SUMMING INPUT | in | SUMMING INPUT | high |
+| 6 | N/C | nc |  | high |
+| 7 | PREAMP OUT | insert_send | PREAMP OUT | high |
+| 8 | PWR AMP IN | insert_return | PWR AMP IN | high |
+| 9 | N/C | nc |  | high |
+| 10 | N/C | nc |  | high |
+| 11 | N/C | nc |  | high |
+| 12 | N/C | nc |  | high |
+| 13 | N/C | nc |  | high |
+| 14 | LINE OUTPUT | out | LINE OUTPUT | high |
+| 15 | SWITCHED OUTPUT | out | SWITCHED OUTPUT | high |
+| 16 | OUTPUT COMMON | ground |  | high |
+| 17 | INPUT 2 CONTROL | control_in | I/P #2 CTL | high |
+| 18 | N/C | nc |  | high |
+| 19 | N/C | nc |  | high |
 | 20 | COMMON | ground |  | high |
 | 21 | +25 V | power |  | high |
-| Y | +24 V | power |  | high |
+| 22 | CHASSIS GROUND | ground |  | high |
+| A | INPUT #1 | in | INPUT 1 | high |
+| B | INPUT #2 | in | INPUT 2 | high |
+| C | INPUT #3 | in | INPUT 3 | high |
+| D | INPUT SHIELD | shield | INPUTS shield | high |
+| E | SUMMING INPUT | in | SUMMING INPUT | high |
+| F | N/C | nc |  | high |
+| H | N/C | nc |  | high |
+| J | N/C | nc |  | high |
+| K | N/C | nc |  | high |
+| L | N/C | nc |  | high |
+| M | N/C | nc |  | high |
+| N | N/C | nc |  | high |
+| P | N/C | nc |  | high |
+| R | LINE OUTPUT | out | LINE OUTPUT | high |
+| S | DIRECT OUTPUT | out | DIRECT OUTPUT | high |
+| T | OUTPUT COMMON | ground |  | high |
+| U | INPUT 3 CONTROL | control_in | I/P #3 CTL | high |
+| V | N/C | nc |  | high |
+| W | MUTE ASSIGN | control_in | MUTE ASSIGN | high |
+| X | MUTE CONTROL | control_in | MUTE CTL | high |
+| Y | +25 V CONTROL | power |  | high |
+| Z | CONTROL COMMON | ground |  | high |
 
-**Straps:** CH ON LAMP: JMP.Z.W · CH ON GND : JMP.X.18 · 24V Jumper: JMP.Y.21 · CH ON GND : JMP.20.18 · Insert +: JMP.22.21 · Insert -: JMP.Z.Y · Fader +: JMP.20.19 · Fader - : JMP.X.W
+**Straps:** JMP.Z.W: P2-Z P2-W · JMP.X.18: P2-X P2-18 · JMP.Y.21: P2-Y P2-21 · JMP.20.18: P2-20 P2-18 · JMP.22.21: P2-22 P2-21 · JMP.Z.Y: P2-Z P2-Y · JMP.20.19: P2-20 P2-19 · JMP.X.W: P2-X P2-W
 
 ## Manuals and documents
 

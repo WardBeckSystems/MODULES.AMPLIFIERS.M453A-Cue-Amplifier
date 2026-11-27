@@ -3,159 +3,978 @@
  "connector": "RTO-144",
  "type": "M453A Cue Amplifier",
  "series": null,
- "contacts": "14 contacts, 21 contacts (P2)",
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": 44,
+   "rows": "A-Z opposite 1-22",
+   "view": "rear",
+   "part": null
+  }
+ ],
  "verified": null,
- "derived": false,
- "variant_of": null,
+ "built_from": {
+  "pictures": [
+   "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+  ],
+  "sheet": "Engineering/RTO-144/M453A/M453A.rto144.json",
+  "sheet_agrees": "7 of 9"
+ },
  "pins": [
   {
+   "connector": "P1",
+   "pin": "1",
+   "ref": "1",
+   "also": "A",
+   "same_row": null,
+   "signal": "INPUT #1",
+   "kind": "in",
+   "port": "INPUT 1",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "2",
+   "ref": "2",
+   "also": "B",
+   "same_row": null,
+   "signal": "INPUT #2",
+   "kind": "in",
+   "port": "INPUT 2",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "ref": "3",
+   "also": "C",
+   "same_row": null,
+   "signal": "INPUT #3",
+   "kind": "in",
+   "port": "INPUT 3",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "4",
+   "ref": "4",
+   "also": "D",
+   "same_row": null,
+   "signal": "INPUT SHIELD",
+   "kind": "shield",
+   "port": "INPUTS",
+   "polarity": "shield",
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "5",
+   "ref": "5",
+   "also": "E",
+   "same_row": null,
+   "signal": "SUMMING INPUT",
+   "kind": "in",
+   "port": "SUMMING INPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "6",
+   "ref": "6",
+   "also": "F",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "ref": "7",
+   "also": "H",
+   "same_row": null,
+   "signal": "PREAMP OUT",
+   "kind": "insert_send",
+   "port": "PREAMP OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "8",
+   "ref": "8",
+   "also": "J",
+   "same_row": null,
+   "signal": "PWR AMP IN",
+   "kind": "insert_return",
+   "port": "PWR AMP IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "9",
+   "ref": "9",
+   "also": "K",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "10",
+   "ref": "10",
+   "also": "L",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "11",
+   "ref": "11",
+   "also": "M",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "12",
+   "ref": "12",
+   "also": "N",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "13",
+   "ref": "13",
+   "also": "P",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
    "pin": "14",
-   "signal": "ACTIVELY BALANCED TINE OUTPUT",
+   "ref": "14",
+   "also": "R",
+   "same_row": null,
+   "signal": "LINE OUTPUT",
    "kind": "out",
-   "pair": null,
+   "port": "LINE OUTPUT",
    "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/AMPLIFIERS/M453A/MANUALS/1979 - M453A - Cue Amplifier.pdf",
-   "page": 7
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P1",
+   "pin": "15",
+   "ref": "15",
+   "also": "S",
+   "same_row": null,
+   "signal": "SWITCHED OUTPUT",
+   "kind": "out",
+   "port": "SWITCHED OUTPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "16",
+   "ref": "16",
+   "also": "T",
+   "same_row": null,
+   "signal": "OUTPUT COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "17",
+   "ref": "17",
+   "also": "U",
+   "same_row": null,
+   "signal": "INPUT 2 CONTROL",
+   "kind": "control_in",
+   "port": "I/P #2 CTL",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
    "pin": "18",
-   "signal": "COMMON",
-   "kind": "ground",
-   "pair": null,
+   "ref": "18",
+   "also": "V",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M453A/M453A.rto144.json",
-   "page": 1
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "GND",
+    "kind": "ground",
+    "agrees": false
+   }
   },
   {
+   "connector": "P1",
    "pin": "19",
-   "signal": "-25 V",
-   "kind": "power",
-   "pair": null,
+   "ref": "19",
+   "also": "W",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M453A/M453A.rto144.json",
-   "page": 1
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VEE-AUDIO",
+    "kind": "power",
+    "agrees": false
+   }
   },
   {
+   "connector": "P1",
    "pin": "20",
+   "ref": "20",
+   "also": "X",
+   "same_row": null,
    "signal": "COMMON",
    "kind": "ground",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M453A/M453A.rto144.json",
-   "page": 1
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "GND",
+    "kind": "ground",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "21",
+   "ref": "21",
+   "also": "Y",
+   "same_row": null,
    "signal": "+25 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M453A/M453A.rto144.json",
-   "page": 1
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VCC-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   },
   {
-   "pin": "Y",
-   "signal": "+24 V",
-   "kind": "power",
-   "pair": null,
+   "connector": "P1",
+   "pin": "22",
+   "ref": "22",
+   "also": "Z",
+   "same_row": null,
+   "signal": "CHASSIS GROUND",
+   "kind": "ground",
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M453A/M453A.rto144.json",
-   "page": 1
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "JMP.22.21",
+    "kind": "strap",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "A",
+   "ref": "A",
+   "also": "1",
+   "same_row": null,
+   "signal": "INPUT #1",
+   "kind": "in",
+   "port": "INPUT 1",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "B",
+   "ref": "B",
+   "also": "2",
+   "same_row": null,
+   "signal": "INPUT #2",
+   "kind": "in",
+   "port": "INPUT 2",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "C",
+   "ref": "C",
+   "also": "3",
+   "same_row": null,
+   "signal": "INPUT #3",
+   "kind": "in",
+   "port": "INPUT 3",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "D",
+   "ref": "D",
+   "also": "4",
+   "same_row": null,
+   "signal": "INPUT SHIELD",
+   "kind": "shield",
+   "port": "INPUTS",
+   "polarity": "shield",
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "E",
+   "ref": "E",
+   "also": "5",
+   "same_row": null,
+   "signal": "SUMMING INPUT",
+   "kind": "in",
+   "port": "SUMMING INPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "F",
+   "ref": "F",
+   "also": "6",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "H",
+   "ref": "H",
+   "also": "7",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "J",
+   "ref": "J",
+   "also": "8",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "K",
+   "ref": "K",
+   "also": "9",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "L",
+   "ref": "L",
+   "also": "10",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "M",
+   "ref": "M",
+   "also": "11",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "N",
+   "ref": "N",
+   "also": "12",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "P",
+   "ref": "P",
+   "also": "13",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "R",
+   "ref": "R",
+   "also": "14",
+   "same_row": null,
+   "signal": "LINE OUTPUT",
+   "kind": "out",
+   "port": "LINE OUTPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "S",
+   "ref": "S",
+   "also": "15",
+   "same_row": null,
+   "signal": "DIRECT OUTPUT",
+   "kind": "out",
+   "port": "DIRECT OUTPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "T",
+   "ref": "T",
+   "also": "16",
+   "same_row": null,
+   "signal": "OUTPUT COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "U",
+   "ref": "U",
+   "also": "17",
+   "same_row": null,
+   "signal": "INPUT 3 CONTROL",
+   "kind": "control_in",
+   "port": "I/P #3 CTL",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "V",
+   "ref": "V",
+   "also": "18",
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "W",
+   "ref": "W",
+   "also": "19",
+   "same_row": null,
+   "signal": "MUTE ASSIGN",
+   "kind": "control_in",
+   "port": "MUTE ASSIGN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "JMP.Z.W",
+    "kind": "strap",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "X",
+   "ref": "X",
+   "also": "20",
+   "same_row": null,
+   "signal": "MUTE CONTROL",
+   "kind": "control_in",
+   "port": "MUTE CTL",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "JMP.X.18",
+    "kind": "strap",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "Y",
+   "ref": "Y",
+   "also": "21",
+   "same_row": null,
+   "signal": "+25 V CONTROL",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VCC-LOGIC",
+    "kind": "power",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "Z",
+   "ref": "Z",
+   "also": "22",
+   "same_row": null,
+   "signal": "CONTROL COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M453A/PINOUTS/1978 - M453A - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "JMP.Z.W",
+    "kind": "strap",
+    "agrees": true
+   }
+  }
+ ],
+ "ports": [
+  {
+   "name": "INPUT 1",
+   "dir": "in",
+   "pins": {
+    "+": "P1-A",
+    "-": "P1-1"
+   }
+  },
+  {
+   "name": "INPUT 2",
+   "dir": "in",
+   "pins": {
+    "+": "P1-B",
+    "-": "P1-2"
+   }
+  },
+  {
+   "name": "INPUT 3",
+   "dir": "in",
+   "pins": {
+    "+": "P1-C",
+    "-": "P1-3"
+   }
+  },
+  {
+   "name": "INPUTS",
+   "dir": "in",
+   "pins": {
+    "shield": "P1-D"
+   }
+  },
+  {
+   "name": "SUMMING INPUT",
+   "dir": "in",
+   "pins": {
+    "+": "P1-E",
+    "-": "P1-5"
+   }
+  },
+  {
+   "name": "PREAMP OUT",
+   "dir": "insert_send",
+   "pins": {
+    "+": "P1-7"
+   }
+  },
+  {
+   "name": "PWR AMP IN",
+   "dir": "insert_return",
+   "pins": {
+    "+": "P1-8"
+   }
+  },
+  {
+   "name": "LINE OUTPUT",
+   "dir": "out",
+   "pins": {
+    "+": "P1-R",
+    "-": "P1-14"
+   }
+  },
+  {
+   "name": "DIRECT OUTPUT",
+   "dir": "out",
+   "pins": {
+    "+": "P1-S"
+   }
+  },
+  {
+   "name": "SWITCHED OUTPUT",
+   "dir": "out",
+   "pins": {
+    "+": "P1-15"
+   }
+  },
+  {
+   "name": "I/P #3 CTL",
+   "dir": "control_in",
+   "pins": {
+    "+": "P1-U"
+   }
+  },
+  {
+   "name": "I/P #2 CTL",
+   "dir": "control_in",
+   "pins": {
+    "+": "P1-17"
+   }
+  },
+  {
+   "name": "MUTE ASSIGN",
+   "dir": "control_in",
+   "pins": {
+    "+": "P1-W"
+   }
+  },
+  {
+   "name": "MUTE CTL",
+   "dir": "control_in",
+   "pins": {
+    "+": "P1-X"
+   }
+  }
+ ],
+ "inserts": [
+  {
+   "name": "PREAMP / POWER AMP INSERT",
+   "send": "PREAMP OUT",
+   "return": "PWR AMP IN",
+   "normalled": null,
+   "note": "unbalanced single contacts, pins 7 and 8 (H and J are NC); normalling not shown"
   }
  ],
  "straps": [
   {
-   "function": "CH ON LAMP",
-   "designation": "JMP.Z.W",
-   "from": "P2-Z",
-   "to": "P2-W"
+   "name": "JMP.Z.W",
+   "pins": [
+    "P2-Z",
+    "P2-W"
+   ],
+   "note": "CH ON LAMP",
+   "from": "RTO-144 sheet"
   },
   {
-   "function": "CH ON GND ",
-   "designation": "JMP.X.18",
-   "from": "P2-X",
-   "to": "P2-18"
+   "name": "JMP.X.18",
+   "pins": [
+    "P2-X",
+    "P2-18"
+   ],
+   "note": "CH ON GND",
+   "from": "RTO-144 sheet"
   },
   {
-   "function": "24V Jumper",
-   "designation": "JMP.Y.21",
-   "from": "P2-Y",
-   "to": "P2-21"
+   "name": "JMP.Y.21",
+   "pins": [
+    "P2-Y",
+    "P2-21"
+   ],
+   "note": "24V Jumper",
+   "from": "RTO-144 sheet"
   },
   {
-   "function": "CH ON GND ",
-   "designation": "JMP.20.18",
-   "from": "P2-20",
-   "to": "P2-18"
+   "name": "JMP.20.18",
+   "pins": [
+    "P2-20",
+    "P2-18"
+   ],
+   "note": "CH ON GND",
+   "from": "RTO-144 sheet"
   },
   {
-   "function": "Insert +",
-   "designation": "JMP.22.21",
-   "from": "P2-22",
-   "to": "P2-21"
+   "name": "JMP.22.21",
+   "pins": [
+    "P2-22",
+    "P2-21"
+   ],
+   "note": "Insert +",
+   "from": "RTO-144 sheet"
   },
   {
-   "function": "Insert -",
-   "designation": "JMP.Z.Y",
-   "from": "P2-Z",
-   "to": "P2-Y"
+   "name": "JMP.Z.Y",
+   "pins": [
+    "P2-Z",
+    "P2-Y"
+   ],
+   "note": "Insert -",
+   "from": "RTO-144 sheet"
   },
   {
-   "function": "Fader +",
-   "designation": "JMP.20.19",
-   "from": "P2-20",
-   "to": "P2-19"
+   "name": "JMP.20.19",
+   "pins": [
+    "P2-20",
+    "P2-19"
+   ],
+   "note": "Fader +",
+   "from": "RTO-144 sheet"
   },
   {
-   "function": "Fader - ",
-   "designation": "JMP.X.W",
-   "from": "P2-X",
-   "to": "P2-W"
+   "name": "JMP.X.W",
+   "pins": [
+    "P2-X",
+    "P2-W"
+   ],
+   "note": "Fader -",
+   "from": "RTO-144 sheet"
   }
  ],
- "power": [
+ "conflicts": [
   {
-   "rail": "VEE-AUDIO",
-   "style": "NEW",
-   "volts": -25,
-   "max_a": 0.1,
-   "supply": "P2-19",
-   "ground": "P2-20",
-   "link": 2
+   "pin": "P1-18",
+   "kept": "N/C (nc)",
+   "other": "GND (ground)",
+   "from": "RTO-144 sheet"
   },
   {
-   "rail": "VCC-AUDIO",
-   "style": "NEW",
-   "volts": 25,
-   "max_a": 0.2,
-   "supply": "P2-21",
-   "ground": "P2-20",
-   "link": 1
-  },
-  {
-   "rail": "VCC-LOGIC",
-   "style": "NEW",
-   "volts": 24,
-   "max_a": 0.1,
-   "supply": "P2-Y",
-   "ground": "P2-18",
-   "link": null
+   "pin": "P1-19",
+   "kept": "N/C (nc)",
+   "other": "VEE-AUDIO (power)",
+   "from": "RTO-144 sheet"
   }
  ],
- "sources": [
-  "Engineering/RTO-144/M453A/M453A.rto144.json",
-  "Modules/AMPLIFIERS/M453A/MANUALS/1979 - M453A - Cue Amplifier.pdf"
+ "to_check": [
+  {
+   "what": "disagree",
+   "pin": "P1-18",
+   "detail": "kept N/C (nc); RTO-144 sheet says GND (ground)"
+  },
+  {
+   "what": "disagree",
+   "pin": "P1-19",
+   "detail": "kept N/C (nc); RTO-144 sheet says VEE-AUDIO (power)"
+  }
  ]
 }
