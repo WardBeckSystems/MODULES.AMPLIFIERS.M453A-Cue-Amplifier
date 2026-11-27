@@ -13,6 +13,172 @@ Ward-Beck Systems M453A, 1978|11. Wiki page: [M453A on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 44 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [8 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1979 - M453A - Cue Amplifier (2).pdf](MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20(2).pdf) page 5 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** |  |
+| &nbsp;&nbsp;To line output | 18 dB !2 ae. to Sp e a ~ e rOut put: 35 dB ! 2 dB. |
+| **Frequency response** | ! 1 dB from SO Hz to 10 kHz. |
+| **Noise** | 7S dB below 3 watts or +I B dBm output (20 Hz to 20 kHz). |
+| **Harmonic distortion** | Less than 0.5 ~ from 100 Hz t o 5 kHz at 3 watts or T18 dBm out put. |
+| **Source impedances** |  |
+| &nbsp;&nbsp;Slimming input | 30.000 ohms. balanced. per source. |
+| **All other inputs** | 600 ohms or less. balanced. |
+| **Input impedances** |  |
+| &nbsp;&nbsp;Summing input | Less than 5 ohms. |
+| **All other inputs** | 30.000 ohms. |
+| **Input levels** |  |
+| &nbsp;&nbsp;Summing input | o dBm via 30 k ohm summing networ ~. |
+| **All other inputs** | o dBm nominal. tI 8 dBm maximum. |
+| **Output impedances** |  |
+| &nbsp;&nbsp;Line | 150 ohms. balanced. |
+| &nbsp;&nbsp;Speaker | Less than 0.5 ohm. p s. |
+
+## Circuit description
+
+From [1979 - M453A - Cue Amplifier (2).pdf](MANUALS/1979%20-%20M453A%20-%20Cue%20Amplifier%20(2).pdf) pages 7-12 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+**H4 53A CUE AMPLIFIER**
+
+The M453A is Icu e ee pl t t t e r with l 3Wl tt output clp lbt l t t y. Pro.ision is. lde t o connect the l. pl i f i er output to the sp el ter either directly o r.i lin i nte grll Muting rel lY. I n lddi tion tot he Spel ter output, I bll inte d, +8 dB. line out put 15.'de I.aillbl e.
+
+Inputs Three types of inputs are pre v t ded:
+
+a) SUI,,,..ing Input: Designed to operate from the cue Mixing bus of an audio console.
+
+b) Direct Input: Designed t o work from an external 600 ohm lu di o source.
+
+c) Switched Inputs: Two additional inputs are provided, entering the module via solid state cross point switches Z3 and Z4. These inputs maybe utilized for intercom requirements, such as from i nnou nce booth or news room facilities.
+
+Pre amplifier ind Insert II with 1ts l s s oci i ted co~p onen ts COMprises the prel.pllfie r s ectton. CIO couples the pre amp output tot he front pinel le.e l control R26. FrOM R26. the slgnl l i s fed t o Module connector p l n 7, which 15 normally strapped t o pln 8. Re MoYll oft hIs connection perMits insertion of in external level control lOCi ted i t lnot her ope r. t l ng.rea of the console. Out put AMplifier Fro. pin 8 of the module connector, the signal is coup led to the out put aMplifier sect ton via Cll, R29.nd R30. R29 Ml 1 be jUMper ed by Jl to inc r e.s e overall aMplifier gain by 10 dB. The output aMplifier co ns1sts of I2 with its associated components. An actively balanced line output is brought out
+
+It module connector pins 14/R.fter passing through CI9, C20,
+
+R41 Ind R42.
+
+**CIRCUIT OESCRIPTIO N**
+
+The Jwatt speaker output is derived from the lower half of Z2. Coupled through C2 1, the signal app ears at the DIRECT out put at pinS. Alternatively, when muting of the cue speaker is required, the SWITCHED output at pin 15 should be connected t o the cues peak e r.
+
+The common return fort he cue speaker appears at pins 16 &amp; T. Muting The mu tfng relay K1 i s normally energized. Connecting the mute control input at pin X t o CONTROL COMMON will sst t c hoff QJ, causing K1 to de energize, i n turn disconnecting the outputs i gna l to pin 15.
+
+Muting canals o be achieved by operating SWl, located at the front panel of the module. The LED DSI will be illuminated to indicate muted status.
+
+Input CrosspOfn ts ZJ and Z4 are CMOS analog swt t che s, servin g' ass ol id state crosspo i nts for inputs ' 2 and 1 3, These f nput s are used for intercom app1 i cations and are switched from their respective remote locations.
+
+Both switches are normally OFF. Connect ing the control inputs at pins 17 or U to CONTROL COMMON will switch the corresponding c ros spoint ON.
+
+Power Supply Decoupl1ng The M4 5JA i s designed to operate from a single 25 volt regulated supply. Fuse Fl is integral tot he module and will open if power dissipation becomes exceSSive. CR5 protects the amplifier from inadvertent supply voltage reversal. Additional filtering is provided by C7.
+
+**PARTS LIST**
+
+PART OESCR I PT ION MFG MFG PART NUMBER ci Capacitor uF 135 V Keme t T390B 105 M035AS
+
+C5 &quot; 0.22 uF/35 V &quot; TJ 90A224M03 5AS
+
+&quot; u F/25 V Philips 437ETF470 CB &quot; uF / 25 V Keme l T 390E476M0 25A 5
+
+COO &quot; &gt;0 uF/ 25 V &quot; T39OC106 M02SA,S
+
+CO2 &quot; a.a u F/2s V &quot; TJ90B 225M0 25A,S cr a &quot; 22 uF/25 V Philips 42f&gt; ET F22
+
+ss, F Ase l co Philips
+
+**CQ92-MC-J 32M**
+
+2222-6 36 -70689
+
+C'6 &quot; 22 u F / 25 V &quot; 426 ETFZ 2 ctv &quot; 4700, F A se l co C0 9 2_ MC-Io72 Mere &quot; aao,F Philips 222 2-630_032 21 C&lt;9 &quot; 22 u F/25 V &quot; 426ETF 22
+
+C2&lt; &quot; &gt;000 uF/16 V &quot; 437ETE 1000 C22 &quot; 22 u F/ZS V &quot; 426ETF22 C23 &quot; &gt;00 u F/2s V &quot; 426 ETF 100 C2' delete
+
+C&quot;' Diode F a i.-.:hil d l N4148
+
+C&quot;' &quot; Motorola l N4003
+
+CR' &quot; F ai rc h i ld lN41 46
+
+&quot; Motorola 1N4 00J &quot;, Zen er
+
+CR' &quot; l N753A
+
+OS&lt; LED, F &quot;, i r Child F LV1 17
+
+**PARTS LIST**
+
+PART DESCRIPTION M'G M' G PART NUMBER
+
+&quot; Fuse, 0.75,10,,. a. 8 &quot; 11.5 AGe 3/'
+
+C I lOr&quot; MR8 JA24 &quot; Rel:lY
+
+0&gt; Transls tor N:l t lon:l l PNJ S69 02 &quot; F &lt;l l rc hi l d 2N3 569
+
+&quot;, Resistor 1!4W &quot; &quot; '&quot; Philips
+
+lOOK &quot;
+
+&quot; lOOK
+
+**220 K**
+
+ea &quot; &quot;3 &quot;
+
+**PARTS LIST**
+
+PART OESCR I PTIO N PART NUMBER,,. Po tenl iome te r Ala was 10-0 15
+
+Res lstOt' 1! 4W
+
+Philips
+
+lOOK &quot;
+
+delete
+
+Re slstOt' 1!2W SIRe sis tOt' 1! 4W S'
+
+Resistor l /2W S' 2&lt;, &quot;', Resistor 3.7SW
+
+Dille CW-2B
+
+Switch Schedow WBS 11-005
+
+**&quot;&quot;'''5 3A CUE AMPLIFIER**
+
+PART DESCRIPTION MFe MFe PART NUMBER
+
+In l~ grllt e d
+
+Cifo&lt;:&quot;&quot;i l Nll t ion lll
+
+**LMJ ?7N**
+
+COloOl 6C N
+
+**CONTROL KNOBS, CAPS AND BUTTONS**
+
+USED ON DESCRIPTION MFe MFG PART NUMBER
+
+ROO Knob (Blll c k) El m.. 021_35 20 Coo (Blll c k } &quot; 040-3620
+
+5W' Bu lt o n (Wn il e) Sck lldow F G_V.'H
+
+was recommends l n e use o f ~p lllcemenl Pllr t&quot; mll~ by t ke specified mllnuf ac tu~ rs forcoro ti&quot; ueCl optimum ~au lpmenl p....form.. n c e,
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._

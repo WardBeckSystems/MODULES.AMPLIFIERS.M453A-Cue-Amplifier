@@ -1,0 +1,216 @@
+{
+ "module": "M453A",
+ "title": "M453A CUE AMPLIFIER",
+ "source": {
+  "file": "MANUALS/1979 - M453A - Cue Amplifier (2).pdf",
+  "page": 5
+ },
+ "ocr_quality": 1.0,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "",
+   "items": [
+    {
+     "name": "To line output",
+     "text": "18 dB !2 ae. to Sp e a ~ e rOut put: 35 dB ! 2 dB.",
+     "quantities": [
+      {
+       "value": 18,
+       "unit": "dB"
+      },
+      {
+       "value": 35,
+       "unit": "dB"
+      },
+      {
+       "value": 2,
+       "unit": "dB"
+      }
+     ],
+     "key": "to_line_output"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "! 1 dB from SO Hz to 10 kHz.",
+   "quantities": [
+    {
+     "value": 1,
+     "unit": "dB"
+    },
+    {
+     "value": 10,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "7S dB below 3 watts or +I B dBm output (20 Hz to 20 kHz).",
+   "quantities": [
+    {
+     "value": 3,
+     "unit": "watts"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.5 ~ from 100 Hz t o 5 kHz at 3 watts or T18 dBm out put.",
+   "quantities": [
+    {
+     "value": 100,
+     "unit": "Hz"
+    },
+    {
+     "value": 5,
+     "unit": "kHz"
+    },
+    {
+     "value": 3,
+     "unit": "watts"
+    },
+    {
+     "value": 18,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedances",
+   "key": "source_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Slimming input",
+     "text": "30.000 ohms. balanced. per source.",
+     "quantities": [
+      {
+       "value": 30,
+       "unit": "ohms"
+      }
+     ],
+     "key": "slimming_input"
+    }
+   ]
+  },
+  {
+   "name": "All other inputs",
+   "key": "all_other_input",
+   "text": "600 ohms or less. balanced.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedances",
+   "key": "input_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Summing input",
+     "text": "Less than 5 ohms.",
+     "quantities": [
+      {
+       "value": 5,
+       "unit": "ohms"
+      }
+     ],
+     "key": "summing_input"
+    }
+   ]
+  },
+  {
+   "name": "All other inputs",
+   "key": "all_other_input",
+   "text": "30.000 ohms.",
+   "quantities": [
+    {
+     "value": 30,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input levels",
+   "key": "input_level",
+   "text": "",
+   "items": [
+    {
+     "name": "Summing input",
+     "text": "o dBm via 30 k ohm summing networ ~.",
+     "quantities": [],
+     "key": "summing_input"
+    }
+   ]
+  },
+  {
+   "name": "All other inputs",
+   "key": "all_other_input",
+   "text": "o dBm nominal. tI 8 dBm maximum.",
+   "quantities": [
+    {
+     "value": 8,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Output impedances",
+   "key": "output_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Line",
+     "text": "150 ohms. balanced.",
+     "quantities": [
+      {
+       "value": 150,
+       "unit": "ohms"
+      }
+     ],
+     "key": "line"
+    },
+    {
+     "name": "Speaker",
+     "text": "Less than 0.5 ohm. p s.",
+     "quantities": [
+      {
+       "value": 0.5,
+       "unit": "ohm"
+      }
+     ],
+     "key": "speaker"
+    }
+   ]
+  }
+ ],
+ "also_in": [
+  {
+   "file": "MANUALS/1978 - M453A - P4.jpg",
+   "page": 1
+  },
+  {
+   "file": "MANUALS/1978 - M453A - P5.jpg",
+   "page": 1
+  }
+ ]
+}
