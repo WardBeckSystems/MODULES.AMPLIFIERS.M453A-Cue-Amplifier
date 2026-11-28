@@ -1,5 +1,5 @@
 # 1978 - M453A - 453-04-006 - MUTING SMITCH SWI NHEN DEPRESSED MUEES THE EAKER.jpg
-Wiki page: [M453A](../../../../PAGES/M453A.md)
+Wiki page: [M453A](../)
 
 
 - **Year:** 1978 (module estimate (labelled))

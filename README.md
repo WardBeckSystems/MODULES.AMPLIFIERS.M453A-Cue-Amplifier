@@ -1,6 +1,6 @@
 # M453A Cue Amplifier · Amplifiers
 
-Ward-Beck Systems M453A, 1978|11. Wiki page: [M453A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M453A.html)
+Ward-Beck Systems M453A, 1978|11. Wiki page: [M453A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M453A-Cue-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|

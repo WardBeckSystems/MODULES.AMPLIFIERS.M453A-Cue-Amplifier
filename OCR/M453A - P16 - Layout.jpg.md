@@ -1,5 +1,5 @@
 # M453A - P16 - Layout.jpg
-Wiki page: [M453A](../../../../PAGES/M453A.md)
+Wiki page: [M453A](../)
 
 
 - **Year:** unknown (title block (read by eye))

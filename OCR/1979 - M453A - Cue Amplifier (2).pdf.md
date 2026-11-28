@@ -1,5 +1,5 @@
 # 1979 - M453A - Cue Amplifier (2).pdf
-Wiki page: [M453A](../../../../PAGES/M453A.md)
+Wiki page: [M453A](../)
 
 
 - **Year:** 1979 (found in this file: "MANUAL ISSUE If2 a .c ps MAY 1979")

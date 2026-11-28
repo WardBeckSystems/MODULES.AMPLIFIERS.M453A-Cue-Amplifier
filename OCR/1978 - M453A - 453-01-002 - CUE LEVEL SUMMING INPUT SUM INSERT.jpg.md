@@ -1,5 +1,5 @@
 # 1978 - M453A - 453-01-002 - CUE LEVEL SUMMING INPUT SUM INSERT.jpg
-Wiki page: [M453A](../../../../PAGES/M453A.md)
+Wiki page: [M453A](../)
 
 
 - **Year:** 1978 (module estimate (labelled))
