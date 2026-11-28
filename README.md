@@ -4,13 +4,11 @@ Ward-Beck Systems M453A, 1978|11. Wiki page: [M453A on WBSps.ca](https://wardbec
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 41 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 12 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 11 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 220 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 12 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 40 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 11 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 10 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 219 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 11 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 43 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -187,6 +185,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKOFd5RkFJZFRsLVU/view?resourcekey=0-4ZXqO7AGlkahr8GGqiTwMg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKOFd5RkFJZFRsLVU&resourcekey=0-4ZXqO7AGlkahr8GGqiTwMg" width="240" alt="1978 - M453A - 453-04-006 - MUTING SMITCH SWI NHEN DEPRESSED MUEES THE EAKER.jpg"></a><br><sub>1978|11 · 453-04-006 - MUTING SMITCH SWI NHEN DEPRESSED MUEES THE EAKER · <a href="MECHANICAL/1978%20-%20M453A%20-%20453-04-006%20-%20MUTING%20SMITCH%20SWI%20NHEN%20DEPRESSED%20MUEES%20THE%20EAKER%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZDk4WGY5RmpzSjg/view?resourcekey=0-XbdfUhcXqXx6idFxDFIDaA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZDk4WGY5RmpzSjg&resourcekey=0-XbdfUhcXqXx6idFxDFIDaA" width="240" alt="1978 - M453A - 453-04-006 - OPE- RATES THE ASSOC IATED DSI.jpg"></a><br><sub>1978|11 · 453-04-006 - OPE- RATES THE ASSOC IATED DSI · <a href="MECHANICAL/1978%20-%20M453A%20-%20453-04-006%20-%20OPE-%20RATES%20THE%20ASSOC%20IATED%20DSI%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M453A.stl`](MECHANICAL/M453A.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M453A)
+
+- **Size:** 51.97 × 192.13 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 3 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M453A - front panel.svg`)
+- the drawn panel is 0.22 wide to high, the size 0.27: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M453A.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
@@ -197,8 +204,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1IRahFbsPHBcdvuXsdKtytXjyfr8PAlmE/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1IRahFbsPHBcdvuXsdKtytXjyfr8PAlmE" width="240" alt="19xx - M453A - DOC - 600-02-001 - INPUT CHANNEL SCHEMA TIC.png"></a><br><sub>19xx - M453A - DOC - 600-02-001 - INPUT CHANNEL SCHEMA TIC · <a href="SCHEMATICS/19xx%20-%20M453A%20-%20DOC%20-%20600-02-001%20-%20INPUT%20CHANNEL%20SCHEMA%20TIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1rWpiNimcQYvKcAPqbaYQ8hIY2sQiaj62/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1rWpiNimcQYvKcAPqbaYQ8hIY2sQiaj62" width="240" alt="19xx - M453A - DOC - 600-02-007 - CUE CHANNEL SCHEMA TIC.png"></a><br><sub>19xx - M453A - DOC - 600-02-007 - CUE CHANNEL SCHEMA TIC · <a href="SCHEMATICS/19xx%20-%20M453A%20-%20DOC%20-%20600-02-007%20-%20CUE%20CHANNEL%20SCHEMA%20TIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1uNZQpFQsRJmutVdnGzn-J-Fj0CyRnUUP/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1uNZQpFQsRJmutVdnGzn-J-Fj0CyRnUUP" width="240" alt="2006 - M453A - DOC - 920063-01-001 - MONIORMQDULE SWTCHED DIRECT SSUE REMSION.jpg"></a><br><sub>2006|39 · DOC - 920063-01-001 - MONIORMQDULE SWTCHED DIRECT SSUE REMSION · <a href="SCHEMATICS/2006%20-%20M453A%20-%20DOC%20-%20920063-01-001%20-%20MONIORMQDULE%20SWTCHED%20DIRECT%20SSUE%20REMSION%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `M453A - P16 - Layout.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -206,8 +211,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKdFV5MFNzek5iWjQ/view?resourcekey=0-7dM9gwsmJMGNHswRlpqs4g" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKdFV5MFNzek5iWjQ&resourcekey=0-7dM9gwsmJMGNHswRlpqs4g" width="240" alt="1978 - M453A - P17 - Pin Out.jpg"></a><br><sub>1978|11 · P17 - Pin Out · <a href="PINOUTS/1978%20-%20M453A%20-%20P17%20-%20Pin%20Out%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `M453A - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -303,7 +306,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - M453A - DOC - 600-02-007 - CUE CHANNEL SCHEMA TIC.kicad_sch](KICAD/19xx%20-%20M453A%20-%20DOC%20-%20600-02-007%20-%20CUE%20CHANNEL%20SCHEMA%20TIC.kicad_sch)
 - [2006 - M453A - DOC - 920063-01-001 - MONIORMQDULE SWTCHED DIRECT SSUE REMSION.kicad_sch](KICAD/2006%20-%20M453A%20-%20DOC%20-%20920063-01-001%20-%20MONIORMQDULE%20SWTCHED%20DIRECT%20SSUE%20REMSION.kicad_sch)
 - [M453A.kicad_sym](KICAD/M453A.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
